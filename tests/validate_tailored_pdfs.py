@@ -10,7 +10,7 @@ OUTPUT = ROOT / "data" / "test_output" / "pdf_contact_sheets"
 OUTPUT.mkdir(parents=True, exist_ok=True)
 
 pdfs = sorted(TAILORED.glob("*.pdf"))
-assert len(pdfs) == 4
+assert pdfs, "No tailored PDFs found"
 
 for pdf_path in pdfs:
     reader = PdfReader(pdf_path)
@@ -44,4 +44,4 @@ for pdf_path in pdfs:
     sheet.save(output, optimize=True)
     print(f"{pdf_path.name}: pages=4 text_chars={len(text)} contact={output}")
 
-print("pdf-structure-and-render-check: PASS (4/4)")
+print(f"pdf-structure-and-render-check: PASS ({len(pdfs)}/{len(pdfs)})")

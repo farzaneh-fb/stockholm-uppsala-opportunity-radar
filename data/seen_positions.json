@@ -14,5 +14,17 @@
   "KI_957295": {
     "source_url": "https://ki.varbi.com/en/what:job/jobID:957295/type:job/where:4/apply:1",
     "first_seen": "2026-08-23"
+  },
+  "KI_960647": {
+    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:960647",
+    "first_seen": "2026-08-23"
+  },
+  "KI_927747": {
+    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:927747/type:job/where:4/apply:1",
+    "first_seen": "2026-08-23"
+  },
+  "SU_FV_2303_26": {
+    "source_url": "https://su.varbi.com/en/what:job/jobID:949744/where:4",
+    "first_seen": "2026-08-23"
   }
 }

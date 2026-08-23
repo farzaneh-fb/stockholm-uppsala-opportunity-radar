@@ -259,7 +259,7 @@ const fmt=d=>new Intl.DateTimeFormat("en-SE",{{day:"numeric",month:"short",year:
 const daysLeft=d=>Math.ceil((new Date(d+"T23:59:59+02:00")-today)/86400000);
 function color(score){{return score>=90?'var(--green)':score>=80?'var(--accent)':score>=70?'var(--amber)':'var(--red)'}}
 function populate(){{
- document.getElementById('newCount').textContent=positions.filter(p=>p.found_date===foundToday).length;
+ document.getElementById('newCount').textContent=positions.filter(p=>p.new_date===foundToday).length;
  document.getElementById('phdCount').textContent=positions.filter(p=>p.kind==='phd').length;
  document.getElementById('jobCount').textContent=positions.filter(p=>p.kind==='job').length;
  document.getElementById('urgentCount').textContent=positions.filter(p=>daysLeft(p.deadline)>=0&&daysLeft(p.deadline)<=7).length;

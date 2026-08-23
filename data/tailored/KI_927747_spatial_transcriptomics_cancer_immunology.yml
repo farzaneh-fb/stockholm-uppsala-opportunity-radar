@@ -1,0 +1,332 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/main/schema.json
+
+cv:
+  name: "Farzaneh Fayazbakhsh"
+  headline: "Spatial Transcriptomics & Bioinformatics Researcher | Cancer Immunology"
+  location: "Stockholm, Sweden"
+  email: "fa.fayazbakhsh@gmail.com"
+  phone: "+46793460888"
+  social_networks:
+  - network: "GitHub"
+    username: "fari-labwitch"
+
+  sections:
+    Personal Statement:
+    - "Interdisciplinary bioinformatics and molecular-biology researcher with direct
+      experience in single-cell and spatial transcriptomics, tumor models and sequencing-data
+      analysis. I use Python, R, Linux and reproducible workflows to translate complex
+      biological questions into rigorous, collaborative analyses, and I am eager to
+      contribute to data-driven spatial immune-niche research in cancer."
+
+    Bioinformatics & Computational Biology Projects:
+    - name: "Automated Raw Sequencing Data Quality Control Pipeline"
+      highlights:
+      - "Built an automated, parallelized Bash orchestration workflow designed for
+        execution on High-Performance Computing (HPC) clusters via SLURM scheduling."
+      - "Deployed FastQC and fastp dynamically inside isolated, version-controlled
+        Singularity and Apptainer containers to automate raw sequence pairing, quality
+        checking, and adapter trimming."
+      - "Implemented multi-core processor allocation inside container runtimes to
+        optimize throughput when executing string substitutions and batch file calculations."
+      - "Orchestrated MultiQC container tasks to aggregate and output comprehensive
+        data quality matrices, tracking processing adjustments across all sample cohorts
+        simultaneously."
+    - name: "Tumor Microenvironment Profiling: scRNA-Seq & Spatial Transcriptomics"
+      highlights:
+      - "Engineered end-to-end transcriptomic pipelines in R using Seurat and SCTransform
+        to map high-dimensional gene expression across breast cancer tissue cohorts."
+      - "Executed data pre-processing, Quality Control (QC), linear (PCA), and non-linear
+        (t-SNE / UMAP) dimensionality reduction alongside graph-based clustering to
+        resolve distinct cell populations and structural tissue features."
+      - "Containerized both analysis environments using Docker and Docker Compose,
+        ensuring full cross-platform compatibility and seamless runtime execution
+        across varied infrastructure platforms."
+      - "Managed pipeline documentation, software repositories, and strict workflow
+        reproducibility utilizing Git and GitHub version control standards."
+
+    Computational Biology & Bioinformatics Skills:
+    - label: "Programming & Pipeline Automation"
+      details: "Python, R, UNIX/Linux Shell, Nextflow (pipeline development), Git,
+        and GitHub for version control"
+    - label: "Genomics, High-Throughput Sequencing & Genetics"
+      details: "Practical experience in NGS data analysis, Whole Genome Sequencing
+        (WGS), RNA-Seq processing, GWAS, QTL analysis, gene mapping, structural variation,
+        metagenomics, genome annotation, and phylogenomics (MEGA, Clustal Omega)"
+    - label: "Structural Biology, Modeling & Machine Learning"
+      details: "Sequence analysis, primer design, AlphaFold (protein structure prediction),
+        PyMOL (molecular visualization), and foundational familiarity with deep learning
+        frameworks"
+    - label: "Infrastructure, HPC & DevOps"
+      details: "Hands-on experience with High-Performance Computing (HPC) clusters,
+        containerization (Docker, Docker Compose, Apptainer/Singularity), and implementation
+        of FAIR Research Data Principles"
+
+    Research Experience:
+    - company: "Karolinska Institute & SciLifeLab"
+      position: "Master's Thesis Research"
+      date: "2026–present"
+      highlights:
+      - "Investigating replication-stress-induced genomic instability at common fragile
+        sites using targeted long-read sequencing."
+      - "Performing neuroblastoma cell culture, drug treatments, DNA extraction, and
+        long-range PCR."
+      - "Developed bioinformatics workflows using Python, Linux and HPC environments
+        for long-read sequencing analysis."
+      - "Performed structural variant discovery, breakpoint characterization and endogenous
+        barcode identification."
+    - company: "KTH Royal Institute of Technology & SciLifeLab"
+      position: "Research Engineer"
+      date: "2023–2024"
+      location: "Sweden"
+      highlights:
+      - "Independently developed Tumor-on-a-Chip models for in vitro anti-cancer drug
+        screening."
+      - "Optimized layer-by-layer cellulose nanofibril coatings to enhance cancer
+        spheroid formation."
+      - "Contributed to projects on Brain-on-a-Chip models for metabolic studies."
+      - "Functionalized electrochemical sensors for ketone detection."
+    - company: "Tehran University of Medical Sciences"
+      position: "Master's Thesis Research"
+      date: "2018–2022"
+      location: "Iran"
+      highlights:
+      - "Synthesized gold nanoparticles conjugated with polyphenols."
+      - "Developed microfluidic devices for endothelial cell culture."
+      - "Modeled early-stage endothelial dysfunction and conducted oxidative stress
+        assays."
+      - "Assisted in preparing a PET/PDMS/Collagen nanofibrous membrane for microfluidic
+        cell culture."
+    - company: "Gen-Iran Lab"
+      position: "Pathology and Cytology Intern"
+      date: 2023
+      location: "Tehran, Iran"
+      highlights:
+      - "Hands-on experience in tissue preparation, fixation, embedding, and sectioning."
+      - "Performed histological and immunohistochemical staining."
+
+    Wet Lab & Experimental Expertise:
+    - label: "Cell Culture & Cancer Biology"
+      details: "2D & 3D cell culture, tumor spheroid formation and organoid culture,
+        in vitro cancer biology drug screening"
+    - label: "Molecular Biology & Genomics Workflows"
+      details: "DNA extraction, downstream cellular and molecular assessments, PCR
+        / Real-Time PCR, agarose gel electrophoresis, Agilent TapeStation analysis,
+        flow cytometry, fluorescent microscopy"
+    - label: "Microfluidics & Biosensors"
+      details: "Organ-on-a-Chip modeling, PDMS-based microfluidic systems fabrication,
+        surface and electrochemical sensor functionalization"
+    - label: "Histology & Pathology"
+      details: "Histological sample preparation, H&E staining, immunohistochemistry
+        (IHC)"
+    - label: "Nanotechnology & Nanomaterial Synthesis"
+      details: "Green synthesis of gold nanoparticles, nanofiber electrospinning,
+        cellulose nanofibrils (CNF) coating optimization"
+
+    Peer-Reviewed Publications:
+    - title: "Evaluating the Antioxidant Potential of Resveratrol-Gold Nanoparticles
+        in Preventing Oxidative Stress in Endothelium on a Chip"
+      authors:
+      - "**Farzaneh Fayazbakhsh**"
+      - "Fatemeh Hataminia"
+      - "Houra Mobaleghol Eslam"
+      - "Mohammad Ajoudanian"
+      - "Sharmin Kharrazi"
+      - "Kazem Sharifi"
+      - "Hossein Ghanbari"
+      journal: "Scientific Reports"
+      date: 2023
+    - title: "Metabolic Assessment of iPSC-Derived Neurons Under Ketogenic and Normal
+        Diets: Ketone Sensor Development and Comparative Analysis of Neuronal Metabolism"
+      authors:
+      - "Rohollah Nasiri\\*"
+      - "**Farzaneh Fayazbakhsh**\\*"
+      - "Reyhaneh Sanei"
+      - "Tingting Wu"
+      - "Nayere Taebnia"
+      - "Rouhollah Habibey"
+      - "Omid Fotouhi"
+      - "John Cognetti"
+      - "Volker M. Lauschke"
+      - "Aman Russom"
+      - "Anna Herland"
+      journal: "CellPress"
+      date: 2026
+      summary: "\\* Both authors contributed equally to this work (co-first authors)."
+    - title: "Assessing Layer-by-Layer Assembly of Cellulose Nanofibrils in Pancreatic
+        Tumor Spheroid Formation"
+      authors:
+      - "Negar Abbasi Aval"
+      - "Ekeram Lahchaichi"
+      - "Oana Tudoran"
+      - "**Farzaneh Fayazbakhsh**"
+      - "Rainer Heuchel"
+      - "Matthias Löhr"
+      - "Torbjörn Pettersson"
+      - "Aman Russom"
+      journal: "Biomedicines"
+      date: 2023
+    - title: "Characterization and Numerical Simulation of a New Microfluidic Device
+        for Cell Investigations"
+      authors:
+      - "H Meslam"
+      - "F Hataminia"
+      - "H Asadi-Saghandi"
+      - "**F Fayazbakhsh**"
+      - "N Tabatabaei"
+      - "Hossein Ghanbari"
+      journal: "Frontiers in Lab on a Chip Technologies"
+      date: 2024
+    - title: "Nanofibers in Respiratory Masks: An Alternative to Prevent Pathogen
+        Transmission"
+      authors:
+      - "Tabatabaei SN"
+      - "Faridi-Majidi R"
+      - "Boroumand S"
+      - "Norouz F"
+      - "Rahmani M"
+      - "Rezaie F"
+      - "**Fayazbakhsh F**"
+      - "Faridi-Majidi R"
+      journal: "IEEE Transactions on NanoBioscience"
+      date: 2022
+
+    Education:
+    - institution: "Swedish University of Agricultural Sciences"
+      area: "Bioinformatics"
+      degree: "M.Sc."
+      date: "2025–present"
+      highlights:
+      - "Highest grade (5/5) in Bioinformatics course"
+      - "Thesis: Exploring the Potential of Fragile Sites as Markers for Lineage Tracing"
+    - institution: "KTH Royal Institute of Technology"
+      area: "Single-Cell & Spatial Transcriptomics Data Analysis Course"
+      date: 2024
+    - institution: "Tehran University of Medical Sciences"
+      area: "Medical Nanotechnology"
+      degree: "M.Sc."
+      date: "2017–2022"
+      location: "Iran"
+      highlights:
+      - "Awarded as the Top Master's Graduate (GPA: 4/4)"
+      - "Thesis: Evaluating the Antioxidant Potential of Resveratrol-Gold Nanoparticles
+        in Preventing Oxidative Stress in Endothelium on a Chip"
+    - institution: "Alzahra University"
+      area: "Cellular and Molecular Biology (Biotechnology Specialization)"
+      degree: "B.Sc."
+      date: "2012–2016"
+      location: "Iran"
+
+    Conference Presentations:
+    - name: "Spheroid Formation in Cellulose Nanofibrils-Coated Microfluidic Chips"
+      date: 2024
+      location: "µTAS 2024, Montreal, Canada"
+      summary: "Poster presentation (first author)"
+    - name: "Design of a Microfluidic Electrochemical Ketone Sensor"
+      date: 2023
+      location: "Swedish Microfluidics in Life Science, KTH, Sweden"
+      summary: "Oral presentation (co-author)"
+    - name: "Investigation of Effect of Different Diets on Brain Energy Metabolism
+        Using Organ-on-a-Chip"
+      date: 2023
+      location: "MPS World Summit, Berlin, Germany"
+      summary: "Poster presentation (co-author)"
+    - name: "Preparation of PET/PDMS/Collagen Nanofibrous Membrane Embedded in a Microfluidic
+        Device for Organ-on-Chip Applications"
+      date: 2022
+      location: "The 3rd Conference on Nanofibers, Tehran University of Medical Sciences"
+      summary: "Poster presentation (co-author)"
+
+    Professional & Personal Skills:
+    - label: "Bridging Wet & Dry Lab"
+      details: "Confident working in both experimental labs and computational environments,
+        making it easy to translate biological questions into data-driven answers."
+    - label: "Independent Problem Solver"
+      details: "Highly autonomous in research environments, with a proven ability
+        to troubleshoot bottlenecks and quickly teach myself new tools to keep projects
+        moving forward."
+    - label: "Collaborative Team Player"
+      details: "Experienced in international, interdisciplinary teams such as KTH,
+        Karolinska Institute and SciLifeLab, with a strong focus on knowledge-sharing
+        and helping colleagues."
+    - label: "Clear Communicator & Fast Learner"
+      details: "Skilled at explaining complex data clearly through peer-reviewed publications
+        and conference presentations; highly adaptable and quick to pick up new scientific
+        topics and skills."
+
+    Teaching & Mentorship:
+    - company: "KTH Royal Institute of Technology"
+      position: "Intern Supervisor"
+      location: "Sweden"
+      highlights:
+      - "Guided an intern in laboratory techniques."
+    - company: "Volunteer Service"
+      position: "Science Teacher"
+      highlights:
+      - "Taught science to underprivileged children."
+
+    Awards & Honors:
+    - name: "Top Master's Graduate"
+      date: 2023
+      location: "Tehran University of Medical Sciences"
+    - name: "LUSH Prize Candidate"
+      date: 2022
+      summary: "Shortlisted for the Young Researcher Award."
+    - name: "Darolfonoon Student Award"
+      date: 2020
+      summary: "For voluntary assistance in nanofiber mask production during the COVID-19
+        pandemic."
+    - name: "Top Article Award"
+      date: 2014
+      location: "First National and Student Conference on Applied Biology, Alzahra
+        University, Iran"
+      summary: "Prize winner."
+    - name: "Top 5% in Iran's Konkour for Master's Degree University Entrance"
+      date: 2016
+      location: "Iran"
+      summary: "Ranked 37th in Iran's national Konkour for the Master's Degree University
+        Entrance Exam."
+
+    References:
+    - "**Dr. Kasper Karlsson** #linebreak() Department of Oncology-Pathology, Karolinska
+      Institute #linebreak() [kasper.karlsson@ki.se](mailto:kasper.karlsson@ki.se)"
+    - "**Dr. Erik Bongcam Rudloff** #linebreak() Department of Animal Biosciences,
+      Swedish University of Agricultural Sciences #linebreak() [erik.bongcam@slu.se](mailto:erik.bongcam@slu.se)"
+    - "**Dr. Aman Russom** #linebreak() Nanobiotechnology Division, Protein Science
+      Department, KTH Royal Institute of Technology #linebreak() [aman.russom@scilifelab.se](mailto:aman.russom@scilifelab.se)"
+    - "**Cheng-de (Ernest) Liu** #linebreak() Department of Oncology-Pathology, Karolinska
+      Institute #linebreak() [chengde.liu@ki.se](mailto:chengde.liu@ki.se)"
+    - "**Dr. Anna Herland** #linebreak() Nanobiotechnology Division, Protein Science
+      Department, KTH Royal Institute of Technology #linebreak() [aherland@kth.se](mailto:aherland@kth.se)"
+    - "**Dr. Rohollah Nasiri** #linebreak() Radiation Oncology Department, Stanford
+      University #linebreak() [rhnasiri@stanford.edu](mailto:rhnasiri@stanford.edu)"
+
+design:
+  theme: "classic"
+  page:
+    top_margin: "0.55in"
+    bottom_margin: "0.55in"
+    left_margin: "0.55in"
+    right_margin: "0.55in"
+  typography:
+    alignment: "left"
+    font_size:
+      body: "9.5pt"
+      name: "28pt"
+      headline: "9.5pt"
+      connections: "9.5pt"
+      section_titles: "1.35em"
+  entries:
+    date_and_location_width: "2.4cm"
+  templates:
+    education_entry:
+      main_column: "**INSTITUTION**, AREA\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+    experience_entry:
+      main_column: "**COMPANY**, POSITION\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+    normal_entry:
+      main_column: "**NAME**\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+
+locale:
+  language: "english"

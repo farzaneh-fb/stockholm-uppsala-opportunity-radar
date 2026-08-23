@@ -15,22 +15,26 @@ with sync_playwright() as p:
     page.evaluate("localStorage.setItem('opportunity-theme','dark')")
     page.reload(wait_until="networkidle")
     assert page.title() == "Farzaneh's Opportunity Radar"
-    assert page.locator(".card").count() == 2
+    positions = page.evaluate("positions")
+    expected_phd = sum(item["kind"] == "phd" for item in positions)
+    expected_job = sum(item["kind"] == "job" for item in positions)
+    expected_new = sum(item.get("new_date") == "2026-08-23" for item in positions)
+    assert page.locator(".card").count() == expected_phd
     assert "developmental neuroscience" in page.locator("#results").inner_text()
-    assert page.locator("#newCount").inner_text() == "4"
-    assert page.locator("#phdCount").inner_text() == "2"
-    assert page.locator("#jobCount").inner_text() == "2"
+    assert page.locator("#newCount").inner_text() == str(expected_new)
+    assert page.locator("#phdCount").inner_text() == str(expected_phd)
+    assert page.locator("#jobCount").inner_text() == str(expected_job)
     page.screenshot(path=OUT / "desktop_dark.png", full_page=True)
 
     page.get_by_role("tab", name="Job positions").click()
-    assert page.locator(".card").count() == 2
+    assert page.locator(".card").count() == expected_job
     assert "Biomedical systems developer" in page.locator("#results").inner_text()
     assert "developmental neuroscience" not in page.locator("#results").inner_text()
 
     page.select_option("#statusFilter", "all")
     first_id = page.locator("[data-applied]").first.get_attribute("data-applied")
     page.locator("[data-applied]").first.check()
-    assert page.locator(".card").count() == 2
+    assert page.locator(".card").count() == expected_job
     assert page.locator("[data-applied]").first.is_checked()
     page.select_option("#statusFilter", "unapplied")
     assert page.locator(".card").count() == 1
@@ -49,7 +53,8 @@ with sync_playwright() as p:
 
     page.set_viewport_size({"width": 390, "height": 844})
     page.reload(wait_until="networkidle")
-    assert page.locator(".card").count() == 2
+    # Reload restores the PhD tab and the default "Not applied" filter.
+    assert page.locator(".card").count() == expected_phd
     assert page.locator("html").evaluate("e => e.scrollWidth <= e.clientWidth")
     page.screenshot(path=OUT / "mobile_light.png", full_page=True)
 
