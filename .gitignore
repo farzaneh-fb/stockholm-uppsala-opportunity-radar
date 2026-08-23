@@ -1,0 +1,13 @@
+# Private/source material
+/data/master_profile/
+/data/.render_work/
+/data/test_output/
+/data/test_render/
+/data/citation_ledger.json
+
+# Local tooling/cache
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
