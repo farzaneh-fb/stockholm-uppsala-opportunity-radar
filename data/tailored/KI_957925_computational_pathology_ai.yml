@@ -309,7 +309,26 @@ design:
     bottom_margin: "0.55in"
     left_margin: "0.55in"
     right_margin: "0.55in"
+  typography:
+    alignment: "left"
+    font_size:
+      body: "9.5pt"
+      name: "28pt"
+      headline: "9.5pt"
+      connections: "9.5pt"
+      section_titles: "1.35em"
   entries:
     date_and_location_width: "2.4cm"
+  templates:
+    education_entry:
+      main_column: "**INSTITUTION**, AREA\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+    experience_entry:
+      main_column: "**COMPANY**, POSITION\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+    normal_entry:
+      main_column: "**NAME**\nLOCATION\nSUMMARY\nHIGHLIGHTS"
+      date_and_location_column: "DATE"
+
 locale:
-  language: "en"
+  language: "english"

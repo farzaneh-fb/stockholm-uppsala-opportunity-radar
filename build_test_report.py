@@ -18,6 +18,17 @@ POSITIONS_FILE = ROOT / "data" / "positions.json"
 REPORT_FILE = ROOT / "index.html"
 FOUND_DATE = "2026-08-23"
 
+
+def rendercv_executable() -> Path:
+    executable = ROOT / ".rendercv-venv" / "Scripts" / "rendercv.exe"
+    if not executable.exists():
+        raise FileNotFoundError(
+            "RenderCV 2.8 environment is missing. Run: uv venv --python 3.12 .rendercv-venv "
+            "&& uv pip install --python .rendercv-venv/Scripts/python.exe 'rendercv[full]==2.8'"
+        )
+    return executable
+
+
 POSITIONS = [
     {
         "id": "KI_960758",
@@ -140,9 +151,6 @@ POSITIONS = [
 
 def compatible_tailored_cv(master: dict, position: dict) -> dict:
     cv_doc = deepcopy(master)
-    cv_doc["design"].pop("typography", None)
-    cv_doc["design"].pop("templates", None)
-    cv_doc["locale"]["language"] = "en"
     cv_doc["cv"]["headline"] = position["headline"]
     sections = cv_doc["cv"]["sections"]
     sections["Personal Statement"][0] = position["statement"]
@@ -170,7 +178,7 @@ def render_position(yaml_engine: YAML, master: dict, position: dict) -> None:
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True)
     result = subprocess.run(
-        ["rendercv", "render", str(yml_path), "--output-folder-name", str(out_dir)],
+        [str(rendercv_executable()), "render", str(yml_path), "--output-folder", str(out_dir)],
         cwd=ROOT,
         capture_output=True,
         text=True,

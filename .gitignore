@@ -9,5 +9,6 @@
 __pycache__/
 *.pyc
 .venv/
+.rendercv-venv/
 .env
 .DS_Store
