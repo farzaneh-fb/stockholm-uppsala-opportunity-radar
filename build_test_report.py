@@ -189,9 +189,10 @@ def render_position(yaml_engine: YAML, master: dict, position: dict) -> None:
     position["download_name"] = pdf_path.name
 
 
-def build_report(positions: list[dict]) -> str:
+def build_report(positions: list[dict], report_date: str = FOUND_DATE) -> str:
     data_json = json.dumps(positions, ensure_ascii=False).replace("</", "<\\/")
-    generated = "23 August 2026"
+    generated_date = date.fromisoformat(report_date)
+    generated = f"{generated_date.day} {generated_date:%B %Y}"
     return f'''<!doctype html>
 <html lang="en" data-theme="dark">
 <head>
@@ -239,10 +240,10 @@ a {{ color:inherit; }} button,input {{ font:inherit; }} button {{ color:inherit;
 </main>
 <script>
 const positions={data_json};
-const foundToday="{FOUND_DATE}";
+const foundToday="{report_date}";
 const stateKey="farzaneh-opportunity-applications-v1";
 let activeKind="phd";
-const today=new Date("{FOUND_DATE}T12:00:00+02:00");
+const today=new Date("{report_date}T12:00:00+02:00");
 const esc=s=>String(s).replace(/[&<>'"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#039;','"':'&quot;'}}[c]));
 const loadState=()=>{{try{{return JSON.parse(localStorage.getItem(stateKey)||"{{}}")}}catch{{return {{}}}}}};
 const saveState=s=>localStorage.setItem(stateKey,JSON.stringify(s));
@@ -288,7 +289,7 @@ def main() -> None:
     for position in POSITIONS:
         render_position(yaml_engine, master, position)
     POSITIONS_FILE.write_text(json.dumps(POSITIONS, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    REPORT_FILE.write_text(build_report(POSITIONS), encoding="utf-8")
+    REPORT_FILE.write_text(build_report(POSITIONS, FOUND_DATE), encoding="utf-8")
     print(json.dumps({"positions": len(POSITIONS), "phd": sum(p["kind"] == "phd" for p in POSITIONS), "jobs": sum(p["kind"] == "job" for p in POSITIONS), "report": str(REPORT_FILE), "tailored_dir": str(TAILORED)}, indent=2))
 
 
