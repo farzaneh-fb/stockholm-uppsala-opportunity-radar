@@ -338,5 +338,55 @@
     "cv_pdf": "data/tailored/SU_FV_2303_26_alphafold_protein_evolution.pdf",
     "download_name": "SU_FV_2303_26_alphafold_protein_evolution.pdf",
     "new_date": "2026-08-23"
+  },
+  {
+    "id": "KI_953974",
+    "kind": "job",
+    "title": "Research assistant in bioinformatics applied to machine learning in regulatory genomics",
+    "short_title": "regulatory_genomics_research_assistant",
+    "organization": "Karolinska Institutet",
+    "city": "Stockholm",
+    "location_detail": "Department of Cell and Molecular Biology, Biomedicum, Solna",
+    "found_date": "2026-08-24",
+    "published": "2026-07-09",
+    "deadline": "2026-08-31",
+    "employment": "Full-time special fixed-term employment",
+    "fit_score": 93,
+    "fit_label": "Excellent match",
+    "description": "Join the Llorens laboratory to analyze single-cell and spatial multiome datasets from mouse models and human patient samples, study gene regulation in CNS injury and repair, support deep-learning models for gene-therapy constructs, and connect computational predictions with genomics validation.",
+    "match_reasons": [
+      "The MSc bioinformatics/biotechnology profile directly meets the stated degree requirement",
+      "Single-cell RNA-seq, spatial transcriptomics, R, Python and reproducible sequencing workflows are documented in the CV",
+      "Current KI/SciLifeLab research combines targeted long-read sequencing, molecular work and Python/Linux/HPC analysis",
+      "Cell culture, molecular biology and translational research experience support collaboration with experimental researchers"
+    ],
+    "gaps": [
+      "No documented scATAC-seq, multiome or enhancer-biology analysis",
+      "Machine-learning and deep-learning experience is foundational rather than extensive",
+      "No stated CNS injury, repair or gene-therapy specialization"
+    ],
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:953974",
+    "apply_url": "https://ki.varbi.com/en/what:login/jobID:953974/type:job/apply:1/",
+    "contact": "Enric Llorens — enric.llorens@ki.se; Margherita Zamboni — margherita.zamboni@ki.se",
+    "headline": "Bioinformatics Researcher | Single-Cell, Spatial Genomics & Molecular Biology",
+    "statement": "Interdisciplinary bioinformatics and molecular-biology researcher with hands-on experience in single-cell and spatial transcriptomics, sequencing workflows, cell culture and translational research. I use Python, R, Linux and HPC-based reproducible workflows to analyze high-dimensional biological data, and am motivated to connect gene-regulatory insights with experimental genomics and CNS repair research.",
+    "section_order": [
+      "Personal Statement",
+      "Bioinformatics & Computational Biology Projects",
+      "Computational Biology & Bioinformatics Skills",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_953974_regulatory_genomics_research_assistant.yml",
+    "cv_pdf": "data/tailored/KI_953974_regulatory_genomics_research_assistant.pdf",
+    "download_name": "KI_953974_regulatory_genomics_research_assistant.pdf",
+    "new_date": "2026-08-24"
   }
 ]
