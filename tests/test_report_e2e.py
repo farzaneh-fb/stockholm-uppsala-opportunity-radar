@@ -1,4 +1,5 @@
 from pathlib import Path
+
 from playwright.sync_api import sync_playwright
 
 URL = "http://127.0.0.1:8765/index.html"
@@ -12,13 +13,15 @@ with sync_playwright() as p:
     errors = []
     page.on("pageerror", lambda err: errors.append(str(err)))
     page.goto(URL, wait_until="networkidle")
+    page.evaluate("localStorage.removeItem('farzaneh-opportunity-applications-v1')")
+    page.reload(wait_until="networkidle")
     page.evaluate("localStorage.setItem('opportunity-theme','dark')")
     page.reload(wait_until="networkidle")
     assert page.title() == "Farzaneh's Opportunity Radar"
     positions = page.evaluate("positions")
     expected_phd = sum(item["kind"] == "phd" for item in positions)
     expected_job = sum(item["kind"] == "job" for item in positions)
-    expected_new = sum(item.get("new_date") == "2026-08-23" for item in positions)
+    expected_new = sum(item.get("new_date") == page.evaluate("foundToday") for item in positions)
     assert page.locator(".card").count() == expected_phd
     assert "developmental neuroscience" in page.locator("#results").inner_text()
     assert page.locator("#newCount").inner_text() == str(expected_new)
@@ -37,7 +40,7 @@ with sync_playwright() as p:
     assert page.locator(".card").count() == expected_job
     assert page.locator("[data-applied]").first.is_checked()
     page.select_option("#statusFilter", "unapplied")
-    assert page.locator(".card").count() == 1
+    assert page.locator(".card").count() == expected_job - 1
     page.select_option("#statusFilter", "applied")
     assert page.locator(".card").count() == 1
     assert page.locator("[data-applied]").first.is_checked()
