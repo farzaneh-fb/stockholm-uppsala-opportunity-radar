@@ -144,54 +144,6 @@
     "download_name": "KI_960143_intestinal_disease_project_coordinator.pdf"
   },
   {
-    "id": "KI_957295",
-    "kind": "job",
-    "title": "Biomedical systems developer to CLINTEC",
-    "short_title": "biomedical_systems_developer",
-    "organization": "Karolinska Institutet",
-    "city": "Solna",
-    "location_detail": "CLINTEC, Division of Ear, Nose and Throat Diseases",
-    "found_date": "2026-08-23",
-    "published": "2026-08-05",
-    "deadline": "2026-08-26",
-    "employment": "Full-time permanent position; six-month trial period",
-    "fit_score": 85,
-    "fit_label": "Strong but competitive",
-    "description": "Mikael Benson's medical-digital-twins group develops computational methods to identify cancer disease mechanisms, biomarkers and drug targets. The role applies machine learning and statistical methods to single-cell and spatial data, evaluates candidate targets, supports publications and presentations, and collaborates across Swedish and international EU projects.",
-    "match_reasons": [
-      "Computational-science Master's-level profile with bioinformatics specialization",
-      "Relevant single-cell and spatial transcriptomics project experience",
-      "Cancer, biomarker and translational-research background",
-      "Strong scientific writing and interdisciplinary collaboration record"
-    ],
-    "gaps": [
-      "Advert asks for experience with single-cell analyses including spatial; the CV shows project work but depth should be evidenced in application answers",
-      "Deep-learning experience is currently foundational"
-    ],
-    "source_url": "https://ki.varbi.com/en/what:job/jobID:957295/type:job/where:4/apply:1",
-    "apply_url": "https://ki.varbi.com/en/what:login/jobID:957295/type:job/where:4/apply:1/",
-    "contact": "Mikael Benson — mikael.benson@ki.se",
-    "headline": "Biomedical Systems & Bioinformatics Researcher | Single-Cell, Spatial and Cancer Biology",
-    "statement": "Interdisciplinary biomedical researcher combining bioinformatics, genomics and cancer biology with hands-on wet-lab experience. I develop reproducible R/Python workflows for sequencing and transcriptomic data, including single-cell and spatial analyses, and connect computational results to disease mechanisms, biomarkers and translational questions through experience at Karolinska Institutet, KTH and SciLifeLab.",
-    "section_order": [
-      "Personal Statement",
-      "Bioinformatics & Computational Biology Projects",
-      "Computational Biology & Bioinformatics Skills",
-      "Research Experience",
-      "Education",
-      "Peer-Reviewed Publications",
-      "Wet Lab & Experimental Expertise",
-      "Conference Presentations",
-      "Professional & Personal Skills",
-      "Teaching & Mentorship",
-      "Awards & Honors",
-      "References"
-    ],
-    "cv_yml": "data/tailored/KI_957295_biomedical_systems_developer.yml",
-    "cv_pdf": "data/tailored/KI_957295_biomedical_systems_developer.pdf",
-    "download_name": "KI_957295_biomedical_systems_developer.pdf"
-  },
-  {
     "id": "KI_960647",
     "kind": "phd",
     "title": "Doctoral (PhD) student position in spatial proteomics of mitochondrial disease",
@@ -388,5 +340,103 @@
     "cv_pdf": "data/tailored/KI_953974_regulatory_genomics_research_assistant.pdf",
     "download_name": "KI_953974_regulatory_genomics_research_assistant.pdf",
     "new_date": "2026-08-24"
+  },
+  {
+    "id": "KI_958516",
+    "kind": "job",
+    "title": "Research assistant in vaccine immunology",
+    "short_title": "vaccine_immunology_research_assistant",
+    "organization": "Karolinska Institutet",
+    "city": "Stockholm",
+    "location_detail": "Department of Medicine, Solna, Division of Immunology and Respiratory Medicine",
+    "found_date": "2026-08-27",
+    "new_date": "2026-08-27",
+    "published": "2026-08-14",
+    "deadline": "2026-09-04",
+    "employment": "Full-time special fixed-term employment",
+    "fit_score": 86,
+    "fit_label": "Strong match",
+    "description": "Support vaccine-immunology studies of B- and T-cell responses, including clinical and preclinical samples, molecular and immunological techniques, single-cell isolation, sequencing and antibody-specificity mapping.",
+    "match_reasons": [
+      "Master's-level biotechnology, molecular-biology and nanotechnology background matches the stated academic requirement",
+      "Documented PCR, flow cytometry, cell culture and molecular-biology experience covers relevant experimental approaches",
+      "R, Python, sequencing-data analysis and single-cell/spatial transcriptomics provide a clear advantage for the data-analysis component",
+      "Publications and interdisciplinary KI/SciLifeLab experience support research communication and teamwork"
+    ],
+    "gaps": [
+      "No documented ELISA, BCR-sequencing or vaccine-immunology specialization",
+      "No stated experience processing clinical or non-human-primate study samples"
+    ],
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:958516",
+    "apply_url": "https://ki.varbi.com/en/what:login/jobID:958516/type:job/apply:1/",
+    "contact": "Karin Loré — karin.lore@ki.se",
+    "headline": "Biomedical Researcher | Molecular Biology, Immunology & Bioinformatics",
+    "statement": "Interdisciplinary biomedical researcher with a Master's-level background in biotechnology and bioinformatics, combining hands-on cell culture, PCR, flow cytometry and molecular-biology workflows with R/Python-based sequencing-data analysis. My research experience at Karolinska Institutet, KTH and SciLifeLab includes translational cell models, single-cell and spatial transcriptomics, and collaborative scientific work; I am motivated to support rigorous studies of vaccine-induced immune responses.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_958516_vaccine_immunology_research_assistant.yml",
+    "cv_pdf": "data/tailored/KI_958516_vaccine_immunology_research_assistant.pdf",
+    "download_name": "KI_958516_vaccine_immunology_research_assistant.pdf"
+  },
+  {
+    "id": "KI_961725",
+    "kind": "job",
+    "title": "Research Assistant in Experimental Neurobiology and Advanced Imaging",
+    "short_title": "experimental_neurobiology_advanced_imaging",
+    "organization": "Karolinska Institutet",
+    "city": "Solna",
+    "location_detail": "Department of Medical Biochemistry and Biophysics, Biomedicum",
+    "found_date": "2026-08-27",
+    "new_date": "2026-08-27",
+    "published": "2026-08-21",
+    "deadline": "2026-09-13",
+    "employment": "Full-time temporary position",
+    "fit_score": 84,
+    "fit_label": "Strong match",
+    "description": "Support experimental neurobiology projects through tissue and sample preparation, histological and immunofluorescence analyses, confocal and light-sheet microscopy, image-data analysis, experimental documentation and laboratory operations.",
+    "match_reasons": [
+      "Master's-level cellular/molecular biology and biotechnology profile meets the relevant-degree requirement",
+      "Documented tissue preparation, fixation, embedding, sectioning, histology and immunohistochemical staining directly fit core laboratory duties",
+      "Cell culture, DNA extraction, PCR, fluorescent microscopy and image-related molecular-biology experience are relevant",
+      "KI/SciLifeLab research experience, publications and presentations demonstrate collaboration, documentation and scientific communication"
+    ],
+    "gaps": [
+      "No documented whole-tissue clearing, light-sheet microscopy, cryostat/vibratome or brain-atlas-registration experience",
+      "No stated sensory-neurobiology or pain-research specialization"
+    ],
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:961725",
+    "apply_url": "https://ki.varbi.com/en/what:login/jobID:961725/type:job/apply:1/",
+    "contact": "Patrik Ernfors — patrik.ernfors@ki.se; Roland Baumgartner — roland.baumgartner@ki.se",
+    "headline": "Biomedical Researcher | Histology, Molecular Biology & Advanced Imaging",
+    "statement": "Biomedical researcher with hands-on experience in tissue preparation, histology, immunohistochemical staining, cell culture, molecular-biology workflows and fluorescent microscopy. I combine careful experimental documentation with computational and data-management skills developed through interdisciplinary research at Karolinska Institutet, KTH and SciLifeLab, and am motivated to contribute to rigorous imaging-based neurobiology research while developing new methods.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_961725_experimental_neurobiology_advanced_imaging.yml",
+    "cv_pdf": "data/tailored/KI_961725_experimental_neurobiology_advanced_imaging.pdf",
+    "download_name": "KI_961725_experimental_neurobiology_advanced_imaging.pdf"
   }
 ]

@@ -31,7 +31,7 @@ with sync_playwright() as p:
 
     page.get_by_role("tab", name="Job positions").click()
     assert page.locator(".card").count() == expected_job
-    assert "Biomedical systems developer" in page.locator("#results").inner_text()
+    assert "Research assistant in vaccine immunology" in page.locator("#results").inner_text()
     assert "developmental neuroscience" not in page.locator("#results").inner_text()
 
     page.select_option("#statusFilter", "all")
