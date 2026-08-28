@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "name": "Karolinska Institutet vacancies",
+      "url": "https://ki.se/en/vacancies",
+      "required": true,
+      "listing_url_patterns": ["ki.varbi.com/en/what:job/jobID:", "kidoktorand.varbi.com/en/what:job/jobID:"]
+    },
+    {
+      "name": "KTH vacancies",
+      "url": "https://www.kth.se/lediga-jobb?l=en",
+      "required": true,
+      "listing_url_patterns": ["kth.se/lediga-jobb/"]
+    },
+    {
+      "name": "Uppsala University PhD vacancies",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?varbiCategory=PhD+positions",
+      "required": true,
+      "listing_url_patterns": ["job-details?query=", "uu.varbi.com/en/what:job/jobID:"]
+    },
+    {
+      "name": "Uppsala University all vacancies",
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies",
+      "required": true,
+      "listing_url_patterns": ["job-details?query=", "uu.varbi.com/en/what:job/jobID:"]
+    },
+    {
+      "name": "Stockholm University Chemistry vacancies",
+      "url": "https://www.su.se/english/divisions/department-of-chemistry/about-the-department/work-with-us",
+      "required": true,
+      "listing_url_patterns": ["su.varbi.com/what:job/jobID:"]
+    },
+    {
+      "name": "Stockholm University MBW vacancies",
+      "url": "https://www.su.se/english/divisions/department-of-molecular-biosciences-the-wenner-gren-institute/about-the-department/work-with-us",
+      "required": false,
+      "listing_url_patterns": ["su.varbi.com/what:job/jobID:"]
+    },
+    {
+      "name": "SciLifeLab careers",
+      "url": "https://scilifelab.se/careers",
+      "required": true,
+      "listing_url_patterns": ["scilifelab.se/career/"]
+    }
+  ]
+}

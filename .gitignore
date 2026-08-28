@@ -4,6 +4,7 @@
 /data/test_output/
 /data/test_render/
 /data/citation_ledger.json
+/data/discovery_manifest.json
 
 # Local tooling/cache
 __pycache__/

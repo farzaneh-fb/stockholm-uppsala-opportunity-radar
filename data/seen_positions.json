@@ -42,5 +42,17 @@
   "KI_962763": {
     "source_url": "https://ki.varbi.com/en/what:job/jobID:962763/",
     "first_seen": "2026-08-28"
+  },
+  "KTH_963406": {
+    "source_url": "https://www.kth.se/lediga-jobb/963406?l=en",
+    "first_seen": "2026-08-28"
+  },
+  "KTH_933676": {
+    "source_url": "https://www.kth.se/lediga-jobb/933676?l=en",
+    "first_seen": "2026-08-28"
+  },
+  "KTH_962477": {
+    "source_url": "https://www.kth.se/lediga-jobb/962477?l=en",
+    "first_seen": "2026-08-28"
   }
 }
