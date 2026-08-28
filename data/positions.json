@@ -438,5 +438,55 @@
     "cv_yml": "data/tailored/KI_961725_experimental_neurobiology_advanced_imaging.yml",
     "cv_pdf": "data/tailored/KI_961725_experimental_neurobiology_advanced_imaging.pdf",
     "download_name": "KI_961725_experimental_neurobiology_advanced_imaging.pdf"
+  },
+  {
+    "id": "KI_962763",
+    "kind": "job",
+    "title": "Research assistant in infection immunology",
+    "short_title": "infection_immunology_research_assistant",
+    "organization": "Karolinska Institutet",
+    "city": "Stockholm",
+    "location_detail": "Department of Medicine, Solna / BioClinicum, Karolinska University Hospital",
+    "found_date": "2026-08-28",
+    "new_date": "2026-08-28",
+    "published": "2026-08-27",
+    "deadline": "2026-09-17",
+    "employment": "Full-time special fixed-term employment",
+    "fit_score": 87,
+    "fit_label": "Strong match",
+    "description": "Support experimental immunology and clinical-sample biobanking in studies of immune responses to Mycobacterium tuberculosis, including student support, inventory updates, experimental laboratory work, and analysis and visualization of large datasets.",
+    "match_reasons": [
+      "Master’s-level molecular biology, biotechnology and bioinformatics background meets the relevant-degree requirement",
+      "Documented cell culture, PCR and flow-cytometry experience aligns with the experimental laboratory profile",
+      "R, Python, sequencing-data analysis and single-cell/spatial transcriptomics support the dataset-analysis component",
+      "KI/SciLifeLab research, publications and interdisciplinary teamwork demonstrate independent and collaborative research readiness"
+    ],
+    "gaps": [
+      "No documented hands-on antibody assays, Luminex or clinical-sample biobanking experience",
+      "Infectious-disease and tuberculosis specialization are not documented",
+      "Basic Swedish understanding is advantageous but not documented"
+    ],
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:962763/",
+    "apply_url": "https://ki.varbi.com/en/what:login/jobID:962763/type:job/apply:1/",
+    "contact": "Christopher Sundling — christopher.sundling@ki.se",
+    "headline": "Biomedical Researcher | Infection Immunology, Cell Biology & Bioinformatics",
+    "statement": "Interdisciplinary biomedical researcher with Master’s-level training in biotechnology and bioinformatics, combining hands-on cell culture, PCR, flow cytometry and molecular-biology workflows with R/Python-based sequencing-data analysis. My research experience at Karolinska Institutet, KTH and SciLifeLab includes translational cell models, single-cell and spatial transcriptomics, and collaborative scientific work; I am motivated to support carefully organized experimental immunology, clinical-sample biobanking and data analysis in infection research.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_962763_infection_immunology_research_assistant.yml",
+    "cv_pdf": "data/tailored/KI_962763_infection_immunology_research_assistant.pdf",
+    "download_name": "KI_962763_infection_immunology_research_assistant.pdf"
   }
 ]
