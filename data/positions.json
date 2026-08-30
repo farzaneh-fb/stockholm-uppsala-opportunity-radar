@@ -634,5 +634,204 @@
     "cv_yml": "data/tailored/KTH_962477_neuronics.yml",
     "cv_pdf": "data/tailored/KTH_962477_neuronics.pdf",
     "download_name": "KTH_962477_neuronics.pdf"
+  },
+  {
+    "id": "UU_949556",
+    "kind": "phd",
+    "title": "PhD student in Chemistry with specialization in Organic Chemistry",
+    "short_title": "organic_chemistry",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-03",
+    "deadline": "2026-08-31",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 56,
+    "fit_label": "Exploratory stretch match",
+    "description": "Organic synthesis, catalysis and reaction-mechanism research at the Department of Chemistry for Life Sciences.",
+    "match_reasons": [
+      "Chemistry and nanotechnology foundation",
+      "Research experience and publication record"
+    ],
+    "gaps": [
+      "Advert requires 40 advanced-level ECTS credits in organic chemistry, not documented",
+      "No documented organic-synthesis experience"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=949556",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:949556",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_956882",
+    "kind": "phd",
+    "title": "Two PhD students in Chemistry",
+    "short_title": "chemistry_catalysis",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-03",
+    "deadline": "2026-08-31",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 61,
+    "fit_label": "Plausible stretch match",
+    "description": "Photoactive metal complexes, catalysis, small-molecule activation, spectroscopy and synthetic chemistry.",
+    "match_reasons": [
+      "Nanotechnology and chemistry-adjacent Master’s training",
+      "Experimental research and publication experience"
+    ],
+    "gaps": [
+      "Required organic/inorganic synthetic-chemistry experience is not documented",
+      "No documented coordination chemistry or catalysis experience"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=956882",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:956882",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_958419",
+    "kind": "phd",
+    "title": "PhD student in Multimodal Machine Learning for Energy Storage Materials",
+    "short_title": "multimodal_ml_materials",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-11",
+    "deadline": "2026-09-11",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 75,
+    "fit_label": "Good stretch match",
+    "description": "Multimodal machine learning and scientific computing for electrochemical energy-storage materials, combining experimental and simulation data.",
+    "match_reasons": [
+      "Python, HPC and reproducible workflow experience",
+      "Nanotechnology background and scientific-data research experience",
+      "Foundational machine-learning familiarity"
+    ],
+    "gaps": [
+      "No documented Bayesian inference, PyTorch/JAX or battery research",
+      "No X-ray scattering or electrochemistry time-series experience"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=958419",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:958419",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_959399",
+    "kind": "phd",
+    "title": "PhD position in Microbiology",
+    "short_title": "microbiology",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-18",
+    "deadline": "2026-09-21",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 78,
+    "fit_label": "Good stretch match",
+    "description": "Medical microbiology research on plasmid copy number, antibiotic-resistance evolution and horizontal gene transfer.",
+    "match_reasons": [
+      "Cellular and molecular biology training",
+      "Molecular laboratory, sequencing and bioinformatics experience",
+      "Research communication through publications and presentations"
+    ],
+    "gaps": [
+      "Bacterial genetics is explicitly required but not documented",
+      "No documented microbiology-specific infection-model experience"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959399",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:959399",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_959437",
+    "kind": "phd",
+    "title": "PhD student in nuclear fuel performance modelling using machine learning",
+    "short_title": "nuclear_fuel_ml",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-19",
+    "deadline": "2026-09-15",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 58,
+    "fit_label": "Exploratory stretch match",
+    "description": "Machine-learning and uncertainty-quantification methods for nuclear fuel-performance modelling.",
+    "match_reasons": [
+      "Python and scientific-data analysis",
+      "Research experience in computational workflows"
+    ],
+    "gaps": [
+      "No nuclear engineering, fuel modelling or uncertainty-quantification experience documented",
+      "Degree equivalence in nuclear physics/engineering is uncertain"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959437",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:959437",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_959448",
+    "kind": "phd",
+    "title": "Doctoral (PhD) Position in Solar Cell Technology with focus on Nano-Optics for Agrivoltaics",
+    "short_title": "solar_cell_nanooptics",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-25",
+    "deadline": "2026-09-14",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 68,
+    "fit_label": "Plausible stretch match",
+    "description": "Nano-optics and materials research for solar-cell technology and agrivoltaics.",
+    "match_reasons": [
+      "Master’s-level nanotechnology training",
+      "Experimental materials and microfabrication-adjacent research background",
+      "Independent research and publication record"
+    ],
+    "gaps": [
+      "No solar-cell, nano-optics or thin-film-device specialization documented"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959448",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:959448",
+    "contact": "See official Uppsala University advert"
+  },
+  {
+    "id": "UU_960041",
+    "kind": "phd",
+    "title": "PhD student in nature-inspired biocarbon–enzyme composites for PFAS remediation",
+    "short_title": "biocarbon_enzyme_pfas",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Uppsala University",
+    "found_date": "2026-08-30",
+    "new_date": "2026-08-30",
+    "published": "2026-08-25",
+    "deadline": "2026-09-18",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 80,
+    "fit_label": "Strong match",
+    "description": "Environmental-analysis PhD on nature-inspired biocarbon–enzyme composites for PFAS remediation.",
+    "match_reasons": [
+      "Molecular biology and biotechnology background",
+      "Nanomaterials synthesis and experimental research experience",
+      "Interdisciplinary research, data analysis and scientific communication"
+    ],
+    "gaps": [
+      "No documented PFAS-remediation or enzyme-composite research",
+      "Environmental-analysis specialization needs development"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960041",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:960041",
+    "contact": "See official Uppsala University advert"
   }
 ]
