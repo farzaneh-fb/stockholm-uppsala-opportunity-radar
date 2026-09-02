@@ -1,3 +1,6 @@
+import threading
+from functools import partial
+from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright
@@ -6,6 +9,13 @@ URL = "http://127.0.0.1:8765/index.html"
 CHROME = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 OUT = Path(__file__).resolve().parent.parent / "data" / "test_output"
 OUT.mkdir(parents=True, exist_ok=True)
+
+server = ThreadingHTTPServer(
+    ("127.0.0.1", 8765),
+    partial(SimpleHTTPRequestHandler, directory=str(OUT.parent.parent)),
+)
+server_thread = threading.Thread(target=server.serve_forever)
+server_thread.start()
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True, executable_path=CHROME)
@@ -63,6 +73,10 @@ with sync_playwright() as p:
 
     assert not errors, errors
     browser.close()
+
+server.shutdown()
+server.server_close()
+server_thread.join()
 
 print("report-e2e: PASS")
 print(OUT / "desktop_dark.png")

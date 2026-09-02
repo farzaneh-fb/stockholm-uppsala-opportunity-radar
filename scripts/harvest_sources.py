@@ -13,6 +13,14 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_REGISTRY = ROOT / "data" / "source_registry.json"
 DEFAULT_OUTPUT = ROOT / "data" / "discovery_manifest.json"
 USER_AGENT = "OpportunityRadar/1.0 (+https://github.com/farzaneh-fb/stockholm-uppsala-opportunity-radar)"
+SOURCE_METADATA_FIELDS = (
+    "organization",
+    "coverage",
+    "source_type",
+    "review_cadence",
+    "fallback_urls",
+    "harvest_mode",
+)
 
 
 class LinkCollector(HTMLParser):
@@ -57,12 +65,17 @@ def extract_listing_candidates(html: str, source: dict[str, Any]) -> list[dict[s
     collector = LinkCollector()
     collector.feed(html)
     base_url = source["url"]
+    source_index_url = base_url.split("#", 1)[0].rstrip("/")
     patterns = source["listing_url_patterns"]
     candidates: list[dict[str, str]] = []
     seen: set[str] = set()
     for href, title in collector.links:
         absolute = urljoin(base_url, href).split("#", 1)[0]
-        if not any(pattern in absolute for pattern in patterns) or absolute in seen:
+        if (
+            absolute.rstrip("/") == source_index_url
+            or not any(pattern in absolute for pattern in patterns)
+            or absolute in seen
+        ):
             continue
         seen.add(absolute)
         candidates.append({"url": absolute, "title": title})
@@ -74,10 +87,16 @@ def harvest(sources: list[dict[str, Any]], timeout: int) -> dict[str, Any]:
     all_urls: set[str] = set()
     for source in sources:
         item = {"name": source["name"], "url": source["url"]}
+        item.update({field: source[field] for field in SOURCE_METADATA_FIELDS if field in source})
         try:
             candidates = extract_listing_candidates(fetch(source["url"], timeout), source)
             candidate_urls = [candidate["url"] for candidate in candidates]
-            status = "ok" if candidate_urls or not source.get("required", True) else "empty"
+            if candidate_urls or not source.get("required", True):
+                status = "ok"
+            elif source.get("harvest_mode") == "dynamic_index":
+                status = "dynamic"
+            else:
+                status = "empty"
             item.update({"status": status, "candidate_urls": candidate_urls, "candidates": candidates})
             all_urls.update(candidate_urls)
         except Exception as exc:  # noqa: BLE001 - one source must not abort a run
@@ -91,6 +110,7 @@ def harvest(sources: list[dict[str, Any]], timeout: int) -> dict[str, Any]:
             "sources_ok": sum(item["status"] == "ok" for item in results),
             "sources_failed": sum(item["status"] == "failed" for item in results),
             "sources_empty": sum(item["status"] == "empty" for item in results),
+            "sources_dynamic": sum(item["status"] == "dynamic" for item in results),
             "candidate_urls": len(all_urls),
         },
     }
@@ -100,7 +120,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Harvest official opportunity source indexes into an auditable manifest.")
     parser.add_argument("--registry", type=Path, default=DEFAULT_REGISTRY)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    parser.add_argument("--timeout", type=int, default=30)
+    parser.add_argument("--timeout", type=int, default=60)
     args = parser.parse_args()
     registry = json.loads(args.registry.read_text(encoding="utf-8"))
     manifest = harvest(registry["sources"], args.timeout)

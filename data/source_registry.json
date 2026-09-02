@@ -1,46 +1,106 @@
 {
+  "coverage_policy": {
+    "geography": ["Stockholm", "Solna", "Uppsala"],
+    "primary_opportunities": ["phd", "research_jobs"],
+    "verification_authority": "Official employer vacancy or application page",
+    "external_discovery_policy": "Search engines and research boards are discovery and reconciliation signals; they never replace official verification."
+  },
+  "weekly_discovery_queries": [
+    "site:slu.se/en/about-slu/work-at-slu/jobs-and-vacancies (PhD OR doctoral OR doktorand) Uppsala",
+    "site:uu.se (PhD OR doctoral OR doktorand) Uppsala vacancies",
+    "site:su.se (PhD OR doctoral OR doktorand) Stockholm vacancies",
+    "site:kth.se (doctoral OR doktorand) Stockholm vacancies",
+    "site:ki.se (doctoral OR doktorand) Stockholm OR Solna vacancies"
+  ],
   "sources": [
     {
       "name": "Karolinska Institutet vacancies",
+      "organization": "Karolinska Institutet",
+      "coverage": ["Stockholm", "Solna"],
+      "source_type": "official_vacancy_index",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://ki.se/en/vacancies"],
       "url": "https://ki.se/en/vacancies",
       "required": true,
       "listing_url_patterns": ["ki.varbi.com/en/what:job/jobID:", "kidoktorand.varbi.com/en/what:job/jobID:"]
     },
     {
       "name": "KTH vacancies",
+      "organization": "KTH Royal Institute of Technology",
+      "coverage": ["Stockholm"],
+      "source_type": "official_vacancy_index",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://www.kth.se/lediga-jobb?l=en"],
       "url": "https://www.kth.se/lediga-jobb?l=en",
       "required": true,
       "listing_url_patterns": ["kth.se/lediga-jobb/"]
     },
     {
       "name": "Uppsala University PhD vacancies",
+      "organization": "Uppsala University",
+      "coverage": ["Uppsala"],
+      "source_type": "official_vacancy_index",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies"],
       "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?varbiCategory=PhD+positions",
       "required": true,
-      "listing_url_patterns": ["job-details?query=", "uu.varbi.com/en/what:job/jobID:"]
+      "listing_url_patterns": ["job-details?query=", "jobbannons?query=", "uu.varbi.com/en/what:job/jobID:"]
     },
     {
       "name": "Uppsala University all vacancies",
+      "organization": "Uppsala University",
+      "coverage": ["Uppsala"],
+      "source_type": "official_vacancy_index",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?varbiCategory=PhD+positions"],
       "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies",
       "required": true,
-      "listing_url_patterns": ["job-details?query=", "uu.varbi.com/en/what:job/jobID:"]
+      "listing_url_patterns": ["job-details?query=", "jobbannons?query=", "uu.varbi.com/en/what:job/jobID:"]
     },
     {
       "name": "Stockholm University Chemistry vacancies",
+      "organization": "Stockholm University",
+      "coverage": ["Stockholm"],
+      "source_type": "official_department_vacancy_page",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://su.varbi.com/en/what:job/"],
       "url": "https://www.su.se/english/divisions/department-of-chemistry/about-the-department/work-with-us",
       "required": true,
       "listing_url_patterns": ["su.varbi.com/what:job/jobID:"]
     },
     {
       "name": "Stockholm University MBW vacancies",
+      "organization": "Stockholm University",
+      "coverage": ["Stockholm"],
+      "source_type": "official_department_vacancy_page",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://su.varbi.com/en/what:job/"],
       "url": "https://www.su.se/english/divisions/department-of-molecular-biosciences-the-wenner-gren-institute/about-the-department/work-with-us",
       "required": false,
       "listing_url_patterns": ["su.varbi.com/what:job/jobID:"]
     },
     {
       "name": "SciLifeLab careers",
+      "organization": "SciLifeLab",
+      "coverage": ["Stockholm", "Solna", "Uppsala"],
+      "source_type": "official_partner_careers_page",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://scilifelab.se/careers"],
       "url": "https://scilifelab.se/careers",
       "required": true,
       "listing_url_patterns": ["scilifelab.se/career/"]
+    },
+    {
+      "name": "SLU vacancies",
+      "organization": "Swedish University of Agricultural Sciences",
+      "coverage": ["Uppsala", "Ultuna"],
+      "source_type": "official_vacancy_index",
+      "review_cadence": "weekly",
+      "fallback_urls": ["https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/"],
+      "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/",
+      "required": true,
+      "harvest_mode": "dynamic_index",
+      "listing_url_patterns": ["slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/"]
     }
   ]
 }

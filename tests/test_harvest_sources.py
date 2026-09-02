@@ -82,6 +82,7 @@ def test_manifest_marks_failed_source_without_losing_successful_candidates(monke
         "sources_ok": 1,
         "sources_failed": 1,
         "sources_empty": 0,
+        "sources_dynamic": 0,
         "candidate_urls": 1,
     }
     assert manifest["sources"][0]["candidate_urls"] == ["https://healthy.example/jobs/42"]
@@ -103,3 +104,63 @@ def test_manifest_marks_required_source_empty_when_index_has_no_listing_urls(mon
 
     assert manifest["sources"][0]["status"] == "empty"
     assert manifest["summary"]["sources_empty"] == 1
+
+
+def test_manifest_retains_source_coverage_governance_metadata(monkeypatch):
+    module = load_module()
+    source = {
+        "name": "SLU vacancies",
+        "organization": "Swedish University of Agricultural Sciences",
+        "coverage": ["Uppsala", "SLU campuses"],
+        "source_type": "official_vacancy_index",
+        "required": True,
+        "review_cadence": "weekly",
+        "url": "https://slu.example/jobs",
+        "fallback_urls": ["https://slu.example/jobs/phd"],
+        "listing_url_patterns": ["/jobs/"],
+    }
+
+    monkeypatch.setattr(module, "fetch", lambda url, timeout: '<a href="/jobs/42">PhD student</a>')
+    manifest = module.harvest([source], timeout=2)
+
+    item = manifest["sources"][0]
+    assert item["organization"] == "Swedish University of Agricultural Sciences"
+    assert item["coverage"] == ["Uppsala", "SLU campuses"]
+    assert item["source_type"] == "official_vacancy_index"
+    assert item["review_cadence"] == "weekly"
+    assert item["fallback_urls"] == ["https://slu.example/jobs/phd"]
+
+
+def test_excludes_the_source_index_when_its_url_matches_a_listing_pattern():
+    module = load_module()
+    source = {
+        "name": "SLU vacancies",
+        "url": "https://slu.example/jobs/",
+        "listing_url_patterns": ["/jobs/"],
+    }
+    html = """
+    <a href="/jobs/">Skip to content</a>
+    <a href="/jobs/phd-student">PhD student in bioinformatics</a>
+    """
+
+    assert module.extract_listing_candidates(html, source) == [
+        {"url": "https://slu.example/jobs/phd-student", "title": "PhD student in bioinformatics"}
+    ]
+
+
+def test_manifest_marks_dynamic_source_for_web_reconciliation_not_empty(monkeypatch):
+    module = load_module()
+    source = {
+        "name": "SLU vacancies",
+        "url": "https://slu.example/jobs/",
+        "listing_url_patterns": ["/jobs/"],
+        "required": True,
+        "harvest_mode": "dynamic_index",
+    }
+
+    monkeypatch.setattr(module, "fetch", lambda url, timeout: "<main>Client-rendered listings</main>")
+    manifest = module.harvest([source], timeout=2)
+
+    assert manifest["sources"][0]["status"] == "dynamic"
+    assert manifest["summary"]["sources_dynamic"] == 1
+    assert manifest["summary"]["sources_empty"] == 0
