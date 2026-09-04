@@ -94,5 +94,21 @@
   "UU_960212": {
     "source_url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=960212",
     "first_seen": "2026-09-02"
+  },
+  "KTH_960383": {
+    "source_url": "https://www.kth.se/lediga-jobb/960383?l=en",
+    "first_seen": "2026-09-04"
+  },
+  "KTH_952584": {
+    "source_url": "https://www.kth.se/lediga-jobb/952584?l=en",
+    "first_seen": "2026-09-04"
+  },
+  "KTH_943642": {
+    "source_url": "https://www.kth.se/lediga-jobb/943642?l=en",
+    "first_seen": "2026-09-04"
+  },
+  "KTH_962597": {
+    "source_url": "https://www.kth.se/lediga-jobb/962597?l=en",
+    "first_seen": "2026-09-04"
   }
 }
