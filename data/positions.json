@@ -390,6 +390,56 @@
     "download_name": "KTH_943642_infection_biophysics_microengineering.pdf"
   },
   {
+    "id": "KI_964211",
+    "kind": "phd",
+    "title": "PhD position in Hematopoiesis and stem cell biology",
+    "short_title": "hematopoiesis_stem_cell_biology",
+    "organization": "Karolinska Institutet",
+    "city": "Stockholm",
+    "location_detail": "Department of Laboratory Medicine, Division of Clinical Immunology",
+    "found_date": "2026-09-08",
+    "new_date": "2026-09-08",
+    "published": "2026-08-31",
+    "deadline": "2026-09-14",
+    "employment": "Full-time doctoral studentship, up to 4 years",
+    "fit_score": 88,
+    "fit_label": "Strong match with method gaps",
+    "description": "Investigate hematopoietic stem-cell heterogeneity and aging in leukemic-stem-cell development using experimental models, human samples, flow cytometry, in-vitro/in-vivo assays, single-cell sequencing and bioinformatics.",
+    "match_reasons": [
+      "Master's-level biotechnology training and documented molecular and cellular research provide a relevant academic and experimental foundation",
+      "Documented sequencing-data analysis, single-cell and spatial transcriptomics, Python/R and reproducible bioinformatics workflows align with the computational component",
+      "Cell-culture, molecular-biology and cancer-research experience support the translational leukemia research context",
+      "KI, KTH and SciLifeLab research experience plus publications demonstrate independent scientific work, collaboration and communication"
+    ],
+    "gaps": [
+      "Hematopoiesis, hematology and leukemic-stem-cell research are not explicitly documented in the master CV",
+      "Animal-model, advanced-flow-cytometry and in-vivo assay experience are not explicitly documented",
+      "The application should document at least one year of hands-on experimental experience and certify doctoral eligibility"
+    ],
+    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:964211/type:job/where:4/apply:1",
+    "apply_url": "https://kidoktorand.varbi.com/en/what:login/jobID:964211/type:job/apply:1/",
+    "contact": "Sidinh Luc — sidinh.luc@ki.se",
+    "headline": "Biomedical Researcher | Cancer Biology, Genomics & Single-Cell Bioinformatics",
+    "statement": "Interdisciplinary biomedical researcher with Master's-level biotechnology training, combining cell culture and molecular-biology research with Python/R-based sequencing-data analysis. My work at Karolinska Institutet, KTH and SciLifeLab includes cancer-related cell models, targeted long-read sequencing, single-cell and spatial transcriptomics, and reproducible computational workflows. I am motivated to contribute rigorous experimental and analytical work to hematopoietic-stem-cell and leukemia research while developing the project's specialised in-vivo, flow-cytometry and hematology methods.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Bioinformatics & Computational Biology Projects",
+      "Computational Biology & Bioinformatics Skills",
+      "Education",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_964211_hematopoiesis_stem_cell_biology.yml",
+    "cv_pdf": "data/tailored/KI_964211_hematopoiesis_stem_cell_biology.pdf",
+    "download_name": "KI_964211_hematopoiesis_stem_cell_biology.pdf"
+  },
+  {
     "id": "UU_959448",
     "kind": "phd",
     "title": "Doctoral (PhD) Position in Solar Cell Technology with focus on Nano-Optics for Agrivoltaics",

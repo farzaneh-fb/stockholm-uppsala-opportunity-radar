@@ -46,7 +46,7 @@ def main() -> None:
         triage = []
         for candidate in source.get("candidates", []):
             identifier = stable_id(candidate["url"], source["name"])
-            if identifier in {"KI_962127", "KTH_964164", "SLU_2585"}:
+            if identifier in {"KI_962127", "KI_964211", "KTH_964164", "SLU_2585"}:
                 status = "new_accepted"
                 reason = "Live official vacancy verified; selected after truthful CV-fit review and tailored materials rendered."
             elif identifier in positions:
