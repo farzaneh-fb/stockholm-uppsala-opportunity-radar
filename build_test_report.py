@@ -294,11 +294,9 @@ def main() -> None:
     yaml_engine.preserve_quotes = True
     with MASTER.open(encoding="utf-8") as handle:
         master = yaml_engine.load(handle)
-    for position in POSITIONS:
-        render_position(yaml_engine, master, position)
-    POSITIONS_FILE.write_text(json.dumps(POSITIONS, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    REPORT_FILE.write_text(build_report(POSITIONS, FOUND_DATE), encoding="utf-8")
-    print(json.dumps({"positions": len(POSITIONS), "phd": sum(p["kind"] == "phd" for p in POSITIONS), "jobs": sum(p["kind"] == "job" for p in POSITIONS), "report": str(REPORT_FILE), "tailored_dir": str(TAILORED)}, indent=2))
+    positions = json.loads(POSITIONS_FILE.read_text(encoding="utf-8"))
+    REPORT_FILE.write_text(build_report(positions, date.today().isoformat()), encoding="utf-8")
+    print(json.dumps({"positions": len(positions), "phd": sum(p["kind"] == "phd" for p in positions), "jobs": sum(p["kind"] == "job" for p in positions), "report": str(REPORT_FILE), "tailored_dir": str(TAILORED)}, indent=2))
 
 
 if __name__ == "__main__":
