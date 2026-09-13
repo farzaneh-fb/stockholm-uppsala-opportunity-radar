@@ -33,7 +33,7 @@ with sync_playwright() as p:
     expected_job = sum(item["kind"] == "job" for item in positions)
     expected_new = sum(item.get("new_date") == page.evaluate("foundToday") for item in positions)
     assert page.locator(".card").count() == expected_phd
-    assert "vascular biology" in page.locator("#results").inner_text()
+    assert "Cell and Molecular Biology Research" in page.locator("#results").inner_text()
     assert page.locator("#newCount").inner_text() == str(expected_new)
     assert page.locator("#phdCount").inner_text() == str(expected_phd)
     assert page.locator("#jobCount").inner_text() == str(expected_job)
@@ -42,7 +42,7 @@ with sync_playwright() as p:
     page.get_by_role("tab", name="Job positions").click()
     assert page.locator(".card").count() == expected_job
     assert "Research assistant" in page.locator("#results").inner_text()
-    assert "vascular biology" not in page.locator("#results").inner_text()
+    assert "Cell and Molecular Biology Research" not in page.locator("#results").inner_text()
 
     page.select_option("#statusFilter", "all")
     first_id = page.locator("[data-applied]").first.get_attribute("data-applied")
