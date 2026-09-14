@@ -9,8 +9,7 @@ MANIFEST = ROOT / "data" / "discovery_manifest.json"
 POSITIONS = ROOT / "data" / "positions.json"
 
 SLU_CANDIDATES = [
-    {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand", "title": "Diversity of Plasmid-Dependent Phages in Aquatic Ecosystems"},
-    {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-teknologi", "title": "PhD student in Technology - Accounting for Unexpected Events When Optimizing the Climate Effects of Broadleaf Tree Production"},
+    {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand", "title": "Doctoral Student- Uncovering Hidden Chemical Threats in EU Soils via Integrated Methods"},
     {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi", "title": "PhD Student position in Biology, specialisation in Environmental Science"},
     {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand---agroekologisk-odlingsfovaltning", "title": "PhD student in agroecological management for crop resilience to multiple stresses"},
     {"url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-teknologi-", "title": "PhD-student in Technology – Biomethanation of Syngas - Climate and Techno-Economic Assessment"},
