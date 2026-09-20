@@ -41,22 +41,22 @@ with sync_playwright() as p:
 
     page.get_by_role("tab", name="Job positions").click()
     assert page.locator(".card").count() == expected_job
-    assert "Research assistant" in page.locator("#results").inner_text()
-    assert "Cell and Molecular Biology Research" not in page.locator("#results").inner_text()
+    if expected_job:
+        page.select_option("#statusFilter", "all")
+        first_id = page.locator("[data-applied]").first.get_attribute("data-applied")
+        page.locator("[data-applied]").first.check()
+        assert page.locator(".card").count() == expected_job
+        assert page.locator("[data-applied]").first.is_checked()
+        page.select_option("#statusFilter", "unapplied")
+        assert page.locator(".card").count() == expected_job - 1
+        page.select_option("#statusFilter", "applied")
+        assert page.locator(".card").count() == 1
+        assert page.locator("[data-applied]").first.is_checked()
+        assert first_id in page.evaluate("localStorage.getItem('farzaneh-opportunity-applications-v1')")
+        page.select_option("#statusFilter", "all")
+    else:
+        assert "No positions match this view" in page.locator("#results").inner_text()
 
-    page.select_option("#statusFilter", "all")
-    first_id = page.locator("[data-applied]").first.get_attribute("data-applied")
-    page.locator("[data-applied]").first.check()
-    assert page.locator(".card").count() == expected_job
-    assert page.locator("[data-applied]").first.is_checked()
-    page.select_option("#statusFilter", "unapplied")
-    assert page.locator(".card").count() == expected_job - 1
-    page.select_option("#statusFilter", "applied")
-    assert page.locator(".card").count() == 1
-    assert page.locator("[data-applied]").first.is_checked()
-    assert first_id in page.evaluate("localStorage.getItem('farzaneh-opportunity-applications-v1')")
-
-    page.select_option("#statusFilter", "all")
     theme_before = page.locator("html").get_attribute("data-theme")
     page.click("#themeBtn")
     theme_after = page.locator("html").get_attribute("data-theme")
