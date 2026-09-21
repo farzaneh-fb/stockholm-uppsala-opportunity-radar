@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:07:18.647528+00:00",
+  "generated_at": "2026-09-21T09:01:25.655640+00:00",
   "sources": [
     {
       "name": "Karolinska Institutet vacancies",
@@ -16,45 +16,33 @@
       ],
       "status": "ok",
       "candidate_urls": [
-        "https://ki.varbi.com/en/what:job/jobID:964634/type:job/where:4/apply:1",
-        "https://kidoktorand.varbi.com/en/what:job/jobID:962717/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:964574/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:962791/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:957836/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:964547/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:963341/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:964409/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:965303/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:964429/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:964505/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:966541/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:965275/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:962082/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:965327/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:965338/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:962678/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:965618/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:965272/type:job/where:4/apply:1"
+        "https://ki.varbi.com/en/what:job/jobID:965272/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:965391/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:965254/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:966213/type:job/where:4/apply:1"
       ],
       "candidates": [
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:964634/type:job/where:4/apply:1",
-          "title": "Biostatistiker i kardiologi"
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:962717/type:job/where:4/apply:1",
-          "title": "Doktorandplats inom förbättring av screening för livmoderhalscancer"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:964574/type:job/where:4/apply:1",
-          "title": "Research Assistant"
-        },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:962791/type:job/where:4/apply:1",
           "title": "Forskningsspecialist inom socialgerontologi med inriktning jämlik och integrerad vård och omsorg för äldre personer"
@@ -68,12 +56,16 @@
           "title": "Doctoral (PhD) student position in vaccine immunology"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:963341/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in Human Tumor Immunology and T-cell Biology (scholarship)"
+          "url": "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
+          "title": "Senior Lecturer in Physiotherapy combined with position as specialist physiotherapist at Karolinska University Hospital"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
-          "title": "Driftansvarig Azure (Senior)"
+          "url": "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
+          "title": "Postdoctoral studies in bioinformatics and translational breast cancer (scholarship)"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:963341/type:job/where:4/apply:1",
+          "title": "Postdoctoral studies in Human Tumor Immunology and T-cell Biology (scholarship)"
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:964409/type:job/where:4/apply:1",
@@ -88,24 +80,20 @@
           "title": "Forskningsassistent"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in bioinformatics and translational breast cancer"
+          "url": "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
+          "title": "Driftansvarig Azure (Senior)"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
-          "title": "Utbildningsadministratör till Institutionen för Neurovetenskap"
+          "url": "https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1",
+          "title": "Postdoctoral researcher in bioinformatics and translational breast cancer"
         },
         {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:964505/type:job/where:4/apply:1",
           "title": "Doctoral (PhD) student position in cellular and molecular immunology"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
-          "title": "Senior Lecturer in Physiotherapy combined with position as specialist physiotherapist at Karolinska University Hospital"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in bioinformatics and translational breast cancer (scholarship)"
+          "url": "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
+          "title": "Utbildningsadministratör till Institutionen för Neurovetenskap"
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:966541/type:job/where:4/apply:1",
@@ -114,6 +102,10 @@
         {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:965275/type:job/where:4/apply:1",
           "title": "Doktorandplats inom kronisk inflammationsepidemiologi"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
+          "title": "Senior Lecturer of Epidemiology"
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:962082/type:job/where:4/apply:1",
@@ -136,36 +128,23 @@
           "title": "Postdoctoral studies in in DNA repair and translational drug discovery (Scholarship)"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
-          "title": "Senior Lecturer of Epidemiology"
-        },
-        {
           "url": "https://ki.varbi.com/en/what:job/jobID:965272/type:job/where:4/apply:1",
           "title": "Research Specialist in neuronal networks, with a focus on the neuroendocrine system"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:965391/type:job/where:4/apply:1",
+          "title": "Research Assistant in neurodegeneration"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:965254/type:job/where:4/apply:1",
+          "title": "Forskningssamordnare inom arbets- och organisationspsykologi"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:966213/type:job/where:4/apply:1",
+          "title": "Research assistant in Adoptive T cell Therapy for gynecological cancer and advanced melanoma"
         }
       ],
       "triage": [
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:964634/type:job/where:4/apply:1",
-          "title": "Biostatistiker i kardiologi",
-          "stable_id": "KI_964634",
-          "status": "not_selected",
-          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:962717/type:job/where:4/apply:1",
-          "title": "Doktorandplats inom förbättring av screening för livmoderhalscancer",
-          "stable_id": "KI_962717",
-          "status": "not_selected",
-          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:964574/type:job/where:4/apply:1",
-          "title": "Research Assistant",
-          "stable_id": "KI_964574",
-          "status": "not_selected",
-          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:962791/type:job/where:4/apply:1",
           "title": "Forskningsspecialist inom socialgerontologi med inriktning jämlik och integrerad vård och omsorg för äldre personer",
@@ -188,16 +167,23 @@
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:963341/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in Human Tumor Immunology and T-cell Biology (scholarship)",
-          "stable_id": "KI_963341",
+          "url": "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
+          "title": "Senior Lecturer in Physiotherapy combined with position as specialist physiotherapist at Karolinska University Hospital",
+          "stable_id": "KI_941167",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
-          "title": "Driftansvarig Azure (Senior)",
-          "stable_id": "KI_949287",
+          "url": "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
+          "title": "Postdoctoral studies in bioinformatics and translational breast cancer (scholarship)",
+          "stable_id": "KI_962510",
+          "status": "not_selected",
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:963341/type:job/where:4/apply:1",
+          "title": "Postdoctoral studies in Human Tumor Immunology and T-cell Biology (scholarship)",
+          "stable_id": "KI_963341",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
@@ -223,16 +209,16 @@
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in bioinformatics and translational breast cancer",
-          "stable_id": "KI_962479",
+          "url": "https://ki.varbi.com/en/what:job/jobID:949287/type:job/where:4/apply:1",
+          "title": "Driftansvarig Azure (Senior)",
+          "stable_id": "KI_949287",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
-          "title": "Utbildningsadministratör till Institutionen för Neurovetenskap",
-          "stable_id": "KI_961449",
+          "url": "https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1",
+          "title": "Postdoctoral researcher in bioinformatics and translational breast cancer",
+          "stable_id": "KI_962479",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
@@ -244,16 +230,9 @@
           "reason": "Live official vacancy retained in the active report."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:941167/type:job/where:4/apply:1",
-          "title": "Senior Lecturer in Physiotherapy combined with position as specialist physiotherapist at Karolinska University Hospital",
-          "stable_id": "KI_941167",
-          "status": "not_selected",
-          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in bioinformatics and translational breast cancer (scholarship)",
-          "stable_id": "KI_962510",
+          "url": "https://ki.varbi.com/en/what:job/jobID:961449/type:job/where:4/apply:1",
+          "title": "Utbildningsadministratör till Institutionen för Neurovetenskap",
+          "stable_id": "KI_961449",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
@@ -270,6 +249,13 @@
           "stable_id": "KI_965275",
           "status": "not_selected",
           "reason": "Live official PhD vacancy reviewed; it requires a Swedish medical degree and very good Swedish, neither documented in the master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
+          "title": "Senior Lecturer of Epidemiology",
+          "stable_id": "KI_962131",
+          "status": "not_selected",
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:962082/type:job/where:4/apply:1",
@@ -307,16 +293,30 @@
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:962131/type:job/where:4/apply:1",
-          "title": "Senior Lecturer of Epidemiology",
-          "stable_id": "KI_962131",
+          "url": "https://ki.varbi.com/en/what:job/jobID:965272/type:job/where:4/apply:1",
+          "title": "Research Specialist in neuronal networks, with a focus on the neuroendocrine system",
+          "stable_id": "KI_965272",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:965272/type:job/where:4/apply:1",
-          "title": "Research Specialist in neuronal networks, with a focus on the neuroendocrine system",
-          "stable_id": "KI_965272",
+          "url": "https://ki.varbi.com/en/what:job/jobID:965391/type:job/where:4/apply:1",
+          "title": "Research Assistant in neurodegeneration",
+          "stable_id": "KI_965391",
+          "status": "not_selected",
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:965254/type:job/where:4/apply:1",
+          "title": "Forskningssamordnare inom arbets- och organisationspsykologi",
+          "stable_id": "KI_965254",
+          "status": "not_selected",
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:966213/type:job/where:4/apply:1",
+          "title": "Research assistant in Adoptive T cell Therapy for gynecological cancer and advanced melanoma",
+          "stable_id": "KI_966213",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         }
@@ -336,7 +336,6 @@
       ],
       "status": "ok",
       "candidate_urls": [
-        "https://www.kth.se/lediga-jobb/968294?l=en",
         "https://www.kth.se/lediga-jobb/966735?l=en",
         "https://www.kth.se/lediga-jobb/950495?l=en",
         "https://www.kth.se/lediga-jobb/950511?l=en",
@@ -382,10 +381,6 @@
         "https://www.kth.se/lediga-jobb/rss/"
       ],
       "candidates": [
-        {
-          "url": "https://www.kth.se/lediga-jobb/968294?l=en",
-          "title": "Postdoc in characterisation of nitrocellulose"
-        },
         {
           "url": "https://www.kth.se/lediga-jobb/966735?l=en",
           "title": "Postdoc in Bio-Based Functional Carbon Materials"
@@ -560,13 +555,6 @@
         }
       ],
       "triage": [
-        {
-          "url": "https://www.kth.se/lediga-jobb/968294?l=en",
-          "title": "Postdoc in characterisation of nitrocellulose",
-          "stable_id": "KTH_968294",
-          "status": "not_selected",
-          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
         {
           "url": "https://www.kth.se/lediga-jobb/966735?l=en",
           "title": "Postdoc in Bio-Based Functional Carbon Materials",
@@ -892,8 +880,8 @@
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961716",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962041",
-        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964762",
-        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249"
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962817",
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964762"
       ],
       "candidates": [
         {
@@ -929,12 +917,12 @@
           "title": "Doctoral (Phd) position in Real Time simulation for electrified flexible industry"
         },
         {
-          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964762",
-          "title": "Doctoral (Phd) position in the photophysics in 2D quantum materials"
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962817",
+          "title": "PhD student in vascular immunology"
         },
         {
-          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249",
-          "title": "PhD-student in Evolutionary and Ecological Genetics"
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964762",
+          "title": "Doctoral (Phd) position in the photophysics in 2D quantum materials"
         }
       ],
       "triage": [
@@ -971,7 +959,7 @@
           "title": "PhD student in Medical Science with a focus on extracellular vesicles and haemostasis in assisted reproduction",
           "stable_id": "UU_961661",
           "status": "not_selected",
-          "reason": "Live official PhD vacancy reviewed; the advert requires Swedish fluency and specific biomedical-laboratory-science preparation and clinical sample-handling experience not documented in the master CV."
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961716",
@@ -995,18 +983,18 @@
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
         },
         {
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962817",
+          "title": "PhD student in vascular immunology",
+          "stable_id": "UU_962817",
+          "status": "not_selected",
+          "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
+        },
+        {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964762",
           "title": "Doctoral (Phd) position in the photophysics in 2D quantum materials",
           "stable_id": "UU_964762",
           "status": "not_selected",
           "reason": "Official candidate reviewed; it is outside target scope, expired/unverified, duplicate discovery signal, or did not clear the realistic-fit gate."
-        },
-        {
-          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249",
-          "title": "PhD-student in Evolutionary and Ecological Genetics",
-          "stable_id": "UU_967249",
-          "status": "accepted_new",
-          "reason": "Live official PhD vacancy verified and accepted after realistic-fit review."
         }
       ]
     },
@@ -1393,22 +1381,49 @@
       "harvest_mode": "dynamic_index",
       "status": "dynamic",
       "candidate_urls": [
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi/"
+        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-de-novo-proteindesign",
+        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-mikrobiella-strategier-for-hallbar-pfas-sanering",
+        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/phd-student-ddls-integrative-pangenomics-of-polyploids"
       ],
       "candidates": [
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi/",
-          "title": "PhD Student position in Biology, specialisation in Environmental Science"
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-de-novo-proteindesign",
+          "title": "PhD students Protein Design",
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 25 May 2026, so the vacancy is closed."
+        },
+        {
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-mikrobiella-strategier-for-hallbar-pfas-sanering",
+          "title": "PhD student in microbial strategies for sustainable PFAS remediation",
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 1 June 2026, so the vacancy is closed."
+        },
+        {
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/phd-student-ddls-integrative-pangenomics-of-polyploids",
+          "title": "PhD Student: DDLS integrative pangenomics of polyploids",
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 22 May 2026, so the vacancy is closed."
         }
       ],
-      "reconciliation": "Official-domain search and direct official index check completed; the observed PhD listing is in Umeå, outside the Stockholm/Solna/Uppsala/Ultuna scope.",
+      "reconciliation": "Client-rendered official index reconciled using the configured official-domain PhD query. Three Uppsala/Ultuna official SLU PhD pages were opened directly; all are closed. No live, in-scope SLU vacancy was verified.",
       "triage": [
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-biologi/",
-          "title": "PhD Student position in Biology, specialisation in Environmental Science",
-          "stable_id": "SLU_DOKTORAND_I_BIOLOGI",
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-de-novo-proteindesign",
+          "title": "PhD students Protein Design",
+          "stable_id": "SLU_DOKTORAND_I_DE_NOVO_PROTEINDESIGN",
           "status": "not_selected",
-          "reason": "Official SLU listing reviewed during dynamic-source reconciliation; Umeå is outside the geographic scope."
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 25 May 2026, so the vacancy is closed."
+        },
+        {
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-mikrobiella-strategier-for-hallbar-pfas-sanering",
+          "title": "PhD student in microbial strategies for sustainable PFAS remediation",
+          "stable_id": "SLU_DOKTORAND_I_MIKROBIELLA_STRATEGIER_FOR_HALLBAR_PFAS_SANERING",
+          "status": "not_selected",
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 1 June 2026, so the vacancy is closed."
+        },
+        {
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/phd-student-ddls-integrative-pangenomics-of-polyploids",
+          "title": "PhD Student: DDLS integrative pangenomics of polyploids",
+          "stable_id": "SLU_PHD_STUDENT_DDLS_INTEGRATIVE_PANGENOMICS_OF_POLYPLOIDS",
+          "status": "not_selected",
+          "reason": "Official SLU page opened during dynamic-source reconciliation; the application deadline was 22 May 2026, so the vacancy is closed."
         }
       ]
     }
@@ -1419,6 +1434,7 @@
     "sources_failed": 0,
     "sources_empty": 0,
     "sources_dynamic": 1,
-    "candidate_urls": 103
-  }
+    "candidate_urls": 104
+  },
+  "refresh_date": "2026-09-21"
 }
