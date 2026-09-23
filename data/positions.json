@@ -1,55 +1,5 @@
 [
   {
-    "id": "KI_964505",
-    "kind": "phd",
-    "title": "Doctoral (PhD) student position in cellular and molecular immunology",
-    "short_title": "cellular_molecular_immunology",
-    "organization": "Karolinska Institutet",
-    "city": "Solna",
-    "location_detail": "Department of Medicine, Solna, Center for Molecular Medicine",
-    "found_date": "2026-09-14",
-    "new_date": "2026-09-14",
-    "published": "2026-09-01",
-    "deadline": "2026-09-22",
-    "employment": "Full-time doctoral studentship, up to 4 years",
-    "fit_score": 90,
-    "fit_label": "Excellent match with domain gaps",
-    "description": "Investigate lymphocyte development and function through in-vivo and in-vitro experiments in cellular and molecular immunology.",
-    "match_reasons": [
-      "Master's-level biotechnology and cellular and molecular biology training provide a directly relevant academic foundation",
-      "Documented cell culture, molecular-biology workflows and flow-cytometry experience align with the project's experimental approaches",
-      "Single-cell and spatial transcriptomics, Python/R analysis and reproducible bioinformatics workflows align with listed beneficial skills",
-      "KI, KTH and SciLifeLab research experience plus publications support independent experimental work, collaboration and scientific communication"
-    ],
-    "gaps": [
-      "Lymphocyte biology and immunology specialization are not explicitly documented in the master CV",
-      "In-vivo experimental experience is not explicitly documented",
-      "The application should certify doctoral eligibility and describe only concrete immunology-relevant experience"
-    ],
-    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:964505/type:job/where:4/apply:1",
-    "apply_url": "https://kidoktorand.varbi.com/en/what:login/jobID:964505/type:job/where:4/apply:1/",
-    "contact": "Taras Kreslavskiy — taras.kreslavskiy@ki.se",
-    "headline": "Biomedical Researcher | Cell Biology, Molecular Methods & Bioinformatics",
-    "statement": "Biomedical researcher with Master's-level training in biotechnology and hands-on experience in cell culture, molecular-biology workflows and flow cytometry. I combine careful experimental work with single-cell and spatial transcriptomics, Python/R-based data analysis and reproducible bioinformatics workflows developed through research at Karolinska Institutet, KTH and SciLifeLab. I am motivated to contribute to rigorous lymphocyte-biology research while developing specialised immunology and in-vivo methods.",
-    "section_order": [
-      "Personal Statement",
-      "Research Experience",
-      "Wet Lab & Experimental Expertise",
-      "Education",
-      "Computational Biology & Bioinformatics Skills",
-      "Bioinformatics & Computational Biology Projects",
-      "Peer-Reviewed Publications",
-      "Conference Presentations",
-      "Professional & Personal Skills",
-      "Teaching & Mentorship",
-      "Awards & Honors",
-      "References"
-    ],
-    "cv_yml": "data/tailored/KI_964505_cellular_molecular_immunology.yml",
-    "cv_pdf": "data/tailored/KI_964505_cellular_molecular_immunology.pdf",
-    "download_name": "KI_964505_cellular_molecular_immunology.pdf"
-  },
-  {
     "id": "KI_965327",
     "kind": "phd",
     "title": "Doctoral (PhD) student position in leukotrienes and extracellular vesicles in cancer",
