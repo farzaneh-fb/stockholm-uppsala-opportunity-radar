@@ -1,55 +1,5 @@
 [
   {
-    "id": "KI_965327",
-    "kind": "phd",
-    "title": "Doctoral (PhD) student position in leukotrienes and extracellular vesicles in cancer",
-    "short_title": "leukotrienes_extracellular_vesicles_cancer",
-    "organization": "Karolinska Institutet",
-    "city": "Solna",
-    "location_detail": "Department of Medicine, Division of Immunology and Respiratory Medicine",
-    "found_date": "2026-09-16",
-    "new_date": "2026-09-16",
-    "published": "2026-09-02",
-    "deadline": "2026-09-23",
-    "employment": "Full-time doctoral studentship, up to 4 years",
-    "fit_score": 88,
-    "fit_label": "Strong match with method gaps",
-    "description": "Study extracellular vesicles in cancer patients and their immunological roles, using clinical material, cell lines, primary cells, biochemical and cellular/molecular immunology methods in vitro and in vivo.",
-    "match_reasons": [
-      "Master's-level medical nanotechnology and cellular/molecular biotechnology training provide a relevant interdisciplinary biomedical foundation",
-      "Documented cancer-cell culture, 2D/3D models, molecular-biology workflows and flow cytometry align with desired experimental skills",
-      "Current KI/SciLifeLab research plus publications demonstrate research independence, collaboration and scientific communication",
-      "Current bioinformatics study and sequencing-data workflows support quantitative analysis and cross-disciplinary work"
-    ],
-    "gaps": [
-      "Immunology and extracellular-vesicle analysis are not explicitly documented in the master CV",
-      "Animal-model experience is not explicitly documented",
-      "The advert prefers a Master's degree in immunology or medical degree; degree relevance and doctoral eligibility must be documented accurately"
-    ],
-    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:965327/type:job/where:4/apply:1",
-    "apply_url": "https://kidoktorand.varbi.com/en/what:login/jobID:965327/type:job/where:4/apply:1/",
-    "contact": "Susanne Gabrielsson — susanne.gabrielsson@ki.se",
-    "headline": "Biomedical Researcher | Cancer Biology, Cell Culture & Bioinformatics",
-    "statement": "Biomedical researcher with Master's-level training in medical nanotechnology and cellular and molecular biotechnology, combining cancer-cell culture, 2D/3D models and molecular-biology workflows with Python/R-based bioinformatics. My work at Karolinska Institutet, KTH and SciLifeLab includes neuroblastoma cell culture, long-read sequencing analysis, organ-on-chip research and reproducible computational workflows. I am motivated to contribute careful experimental and analytical work to cancer and extracellular-vesicle research while developing specialised immunology, EV-analysis and in-vivo methods.",
-    "section_order": [
-      "Personal Statement",
-      "Research Experience",
-      "Wet Lab & Experimental Expertise",
-      "Education",
-      "Computational Biology & Bioinformatics Skills",
-      "Bioinformatics & Computational Biology Projects",
-      "Peer-Reviewed Publications",
-      "Conference Presentations",
-      "Professional & Personal Skills",
-      "Teaching & Mentorship",
-      "Awards & Honors",
-      "References"
-    ],
-    "cv_yml": "data/tailored/KI_965327_leukotrienes_extracellular_vesicles_cancer.yml",
-    "cv_pdf": "data/tailored/KI_965327_leukotrienes_extracellular_vesicles_cancer.pdf",
-    "download_name": "KI_965327_leukotrienes_extracellular_vesicles_cancer.pdf"
-  },
-  {
     "id": "KTH_962597",
     "kind": "phd",
     "title": "PhD in Medical Imaging of Childbirth-Related Pelvic Floor Injuries",
@@ -197,6 +147,56 @@
     "cv_yml": "data/tailored/KI_962593_translational_leukemia_niche.yml",
     "cv_pdf": "data/tailored/KI_962593_translational_leukemia_niche.pdf",
     "download_name": "KI_962593_translational_leukemia_niche.pdf"
+  },
+  {
+    "id": "KI_966583",
+    "kind": "phd",
+    "title": "PhD candidate in molecular and circuit mechanisms of learning and memory",
+    "short_title": "molecular_circuit_learning_memory",
+    "organization": "Karolinska Institutet",
+    "city": "Solna",
+    "location_detail": "Department of Medical Biochemistry and Biophysics, Biomedicum",
+    "found_date": "2026-09-24",
+    "new_date": "2026-09-24",
+    "published": "2026-09-04",
+    "deadline": "2026-09-29",
+    "employment": "Full-time doctoral studentship, up to 4 years",
+    "fit_score": 78,
+    "fit_label": "Good stretch match with method gaps",
+    "description": "Use engineered proteins to study molecular signalling and neuronal circuits in the mouse brain, leading experimental design, experimentation, analysis and scientific presentation/publication.",
+    "match_reasons": [
+      "Master's-level biotechnology and medical-nanotechnology training provide a relevant biological and biomedical foundation",
+      "Documented molecular-biology workflows, cell culture, imaging and experimental research support the laboratory component",
+      "Research publications and collaborative work at KI, KTH and SciLifeLab support experimental planning, analysis and scientific communication",
+      "Python/R-based reproducible analysis provides a useful quantitative complement in an interdisciplinary research environment"
+    ],
+    "gaps": [
+      "Electrophysiology is desirable in the advert but is not explicitly documented in the master CV",
+      "Mouse-brain, neuronal-circuit and protein-engineering experience are not explicitly documented",
+      "The application should present only substantiated molecular and experimental skills while explaining motivation to learn the specialised methods"
+    ],
+    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:966583/type:job/where:4/apply:1",
+    "apply_url": "https://kidoktorand.varbi.com/en/what:login/jobID:966583/type:job/where:4/apply:1/",
+    "contact": "Onur Dagliyan — onur.dagliyan@ki.se",
+    "headline": "Biomedical Researcher | Molecular Biology, Imaging & Reproducible Analysis",
+    "statement": "Biomedical researcher with a biology research and publication background, combining molecular-biology methods, cell culture and imaging with growing bioinformatics skills. I use R, Python and reproducible workflows to support scientific analysis, and I am comfortable working between experimental and computational colleagues. I would bring this foundation to molecular neurobiology while developing specialised expertise in protein engineering, electrophysiology and neuronal-circuit research.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_966583_molecular_circuit_learning_memory.yml",
+    "cv_pdf": "data/tailored/KI_966583_molecular_circuit_learning_memory.pdf",
+    "download_name": "KI_966583_molecular_circuit_learning_memory.pdf"
   },
   {
     "id": "KTH_964164",
