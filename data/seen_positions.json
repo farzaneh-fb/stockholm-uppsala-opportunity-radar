@@ -658,5 +658,45 @@
   "UU_942034": {
     "source_url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=942034",
     "first_seen": "2026-09-24"
+  },
+  "UU_968823": {
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=968823",
+    "first_seen": "2026-09-25"
+  },
+  "KI_929898": {
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:929898/type:job/where:4/apply:1",
+    "first_seen": "2026-09-25"
+  },
+  "KI_965346": {
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:965346/type:job/where:4/apply:1",
+    "first_seen": "2026-09-25"
+  },
+  "KI_964810": {
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:964810/type:job/where:4/apply:1",
+    "first_seen": "2026-09-25"
+  },
+  "KI_967240": {
+    "source_url": "https://ki.varbi.com/en/what:job/jobID:967240/type:job/where:4/apply:1",
+    "first_seen": "2026-09-25"
+  },
+  "KTH_955899": {
+    "source_url": "https://www.kth.se/lediga-jobb/955899?l=en",
+    "first_seen": "2026-09-25"
+  },
+  "SLU_DOKTORAND_RESILIENTA_VALLPRODUKTIONSSYSTEM": {
+    "source_url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand----resilienta-vallproduktionssystem/",
+    "first_seen": "2026-09-25"
+  },
+  "SLU_DOKTORAND_I_SKOGSSKOTSEL": {
+    "source_url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogsskotsel/",
+    "first_seen": "2026-09-25"
+  },
+  "SLU_DOKTORAND_I_SKOGSPATOLOGI": {
+    "source_url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogspatologi/",
+    "first_seen": "2026-09-25"
+  },
+  "SLU_KLINIKVETERINAR_ANESTESI_SMADJUR": {
+    "source_url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/klinikveterinar-anestesi-smadjur/",
+    "first_seen": "2026-09-25"
   }
 }

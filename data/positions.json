@@ -1,54 +1,5 @@
 [
   {
-    "id": "KTH_962597",
-    "kind": "phd",
-    "title": "PhD in Medical Imaging of Childbirth-Related Pelvic Floor Injuries",
-    "short_title": "medical_imaging_pelvic_floor_injuries",
-    "organization": "KTH Royal Institute of Technology",
-    "city": "Stockholm",
-    "location_detail": "Department of Biomedical Engineering and Health Systems, KTH",
-    "found_date": "2026-09-04",
-    "new_date": "2026-09-04",
-    "published": "2026-09-03",
-    "deadline": "2026-09-24",
-    "employment": "Full-time doctoral employment",
-    "fit_score": 76,
-    "fit_label": "Good stretch match",
-    "description": "Develop diagnostic and treatment solutions for women's health through biomedical imaging and modelling, in collaboration with clinicians at Karolinska University Hospital and international medical-image-analysis and biomechanical-simulation researchers.",
-    "match_reasons": [
-      "Medical nanotechnology and biotechnology training provide a relevant interdisciplinary foundation for medical-technology research",
-      "Documented microscopy, imaging and translational biomedical research are relevant to the project's diagnostic-imaging context",
-      "Python/R-based scientific-data analysis and reproducible workflows support analytical research work",
-      "KI/KTH/SciLifeLab collaboration experience supports work across clinical and engineering partners"
-    ],
-    "gaps": [
-      "The master CV does not document pelvic-floor research, childbirth-related injury research or biomechanical simulation",
-      "Dedicated medical-image-analysis, FEM or clinical imaging expertise is not explicitly documented"
-    ],
-    "source_url": "https://www.kth.se/lediga-jobb/962597?l=en",
-    "apply_url": "https://kth.varbi.com/en/apply/positionquick/962597/?where=4",
-    "contact": "Matilda Larsson — matil@kth.se",
-    "headline": "Biomedical Researcher | Imaging, Translational Science & Reproducible Analysis",
-    "statement": "Interdisciplinary biomedical researcher with Master's-level training in medical nanotechnology and current bioinformatics study, combining microscopy, molecular and cellular laboratory research with Python/R-based scientific-data analysis. My experience at Karolinska Institutet, KTH and SciLifeLab includes translational research, imaging and reproducible workflows. I am motivated to contribute this foundation to clinically connected medical-technology research while developing specialised imaging and modelling expertise.",
-    "section_order": [
-      "Personal Statement",
-      "Research Experience",
-      "Wet Lab & Experimental Expertise",
-      "Education",
-      "Computational Biology & Bioinformatics Skills",
-      "Bioinformatics & Computational Biology Projects",
-      "Peer-Reviewed Publications",
-      "Conference Presentations",
-      "Professional & Personal Skills",
-      "Teaching & Mentorship",
-      "Awards & Honors",
-      "References"
-    ],
-    "cv_yml": "data/tailored/KTH_962597_medical_imaging_pelvic_floor_injuries.yml",
-    "cv_pdf": "data/tailored/KTH_962597_medical_imaging_pelvic_floor_injuries.pdf",
-    "download_name": "KTH_962597_medical_imaging_pelvic_floor_injuries.pdf"
-  },
-  {
     "id": "KI_966651",
     "kind": "phd",
     "title": "Doctoral (PhD) student position in colorectal tumor immunology",
@@ -342,6 +293,56 @@
     "cv_yml": "data/tailored/KTH_962477_neuronics.yml",
     "cv_pdf": "data/tailored/KTH_962477_neuronics.pdf",
     "download_name": "KTH_962477_neuronics.pdf"
+  },
+  {
+    "id": "UU_968823",
+    "kind": "phd",
+    "title": "PhD student with specialization in chemistry in polymer-based solid-state batteries",
+    "short_title": "polymer_solid_state_batteries",
+    "organization": "Uppsala University",
+    "city": "Uppsala",
+    "location_detail": "Department of Chemistry – Ångström Laboratory",
+    "found_date": "2026-09-25",
+    "new_date": "2026-09-25",
+    "published": "2026-09-16",
+    "deadline": "2026-10-07",
+    "employment": "Full-time doctoral employment",
+    "fit_score": 72,
+    "fit_label": "Relevant stretch match",
+    "description": "Develop and investigate anode-free sodium batteries based on polymer electrolytes through experimental polymer science, materials chemistry, electrochemistry and spectroscopy.",
+    "match_reasons": [
+      "Master's-level medical nanotechnology training provides a relevant interdisciplinary materials-science foundation",
+      "Documented experimental research, analytical work and scientific communication support laboratory-based doctoral research",
+      "Python/R-based scientific-data analysis and reproducible workflows provide a useful complement for experimental data handling",
+      "Collaborative research experience at KI, KTH and SciLifeLab supports work across experimental and quantitative colleagues"
+    ],
+    "gaps": [
+      "Battery fabrication, electrochemical characterization and polymer-electrolyte experience are not documented in the master CV",
+      "Advanced materials analysis, especially X-ray photoelectron spectroscopy, is not explicitly documented",
+      "The application should present the nanotechnology foundation accurately while explaining motivation to develop battery-specific methods"
+    ],
+    "source_url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=968823",
+    "apply_url": "https://uu.varbi.com/en/what:login/type:job/jobID:968823",
+    "contact": "Maria Hahlin — Maria.Hahlin@kemi.uu.se; Jonas Mindemark — Jonas.Mindemark@kemi.uu.se",
+    "headline": "Interdisciplinary Researcher | Nanotechnology, Experimental Science & Reproducible Analysis",
+    "statement": "Interdisciplinary biomedical researcher with Master's-level training in medical nanotechnology, an established biology research and publication background, and growing bioinformatics skills. I combine experimental research with Python/R-based scientific-data analysis and reproducible workflows, and work comfortably between experimental and computational colleagues. I would bring this foundation to experimental battery research while developing specialised expertise in polymer electrolytes, electrochemistry and materials analysis.",
+    "section_order": [
+      "Personal Statement",
+      "Education",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/UU_968823_polymer_solid_state_batteries.yml",
+    "cv_pdf": "data/tailored/UU_968823_polymer_solid_state_batteries.pdf",
+    "download_name": "UU_968823_polymer_solid_state_batteries.pdf"
   },
   {
     "id": "KTH_952584",
