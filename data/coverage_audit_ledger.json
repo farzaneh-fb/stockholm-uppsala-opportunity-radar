@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.su.se/english/about-the-university/work-at-su/available-jobs",
+      "title": "Stockholm University — Available jobs",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 2,
+      "url": "https://www.su.se/english/news/articles/2026-03-30-the-faculty-of-science-announces-31-phd-positions",
+      "title": "Stockholm University Faculty of Science — 31 PhD positions",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 3,
+      "url": "https://www.su.se/english/divisions/department-of-computer-and-systems-sciences/about-the-department/work-with-us",
+      "title": "Stockholm University DSV — Work with us",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 4,
+      "url": "https://www.su.se/english/divisions/department-of-public-health-sciences/news/articles/2026-09-17-two-new-phd-positions-in-current-public-health-sciences-research",
+      "title": "Stockholm University Public Health — two PhD positions",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 5,
+      "url": "https://www.kth.se/lediga-jobb?l=en",
+      "title": "KTH — Vacancies",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 6,
+      "url": "https://ki.se/en/about-ki/jobs-at-ki/available-positions-at-ki",
+      "title": "Karolinska Institutet — Available positions",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 7,
+      "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?query=PhD",
+      "title": "Uppsala University — PhD search",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 8,
+      "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies?filters=OccupationArea%24%24string%7CPhD",
+      "title": "SLU — PhD vacancies",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 9,
+      "url": "https://www.sh.se/english/sodertorn-university/meet-sodertorn-university/this-is-sodertorn-university/vacant-positions",
+      "title": "Södertörn University — Vacant positions",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 10,
+      "url": "https://www.sh.se/english/sodertorn-university/research/doctoral-level-education/interested-in-doctoral-studies",
+      "title": "Södertörn University — Interested in doctoral studies",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 11,
+      "url": "https://www.sei.org/people/jobs",
+      "title": "Stockholm Environment Institute — Opportunities",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 12,
+      "url": "https://www.ivl.se/english/ivl/career.html",
+      "title": "IVL — Careers",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 13,
+      "url": "https://www.regionstockholm.se/jobb/lediga-jobb",
+      "title": "Region Stockholm — Vacancies",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 14,
+      "url": "https://regionuppsala.se/jobb-och-utbildning/lediga-tjanster",
+      "title": "Region Uppsala — Vacancies",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 15,
+      "url": "https://academicpositions.com/jobs/country/sweden",
+      "title": "Academic Positions — Sweden jobs",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 16,
+      "url": "https://euraxess.ec.europa.eu/jobs/465219",
+      "title": "EURAXESS — Stockholm University doctoral vacancy",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 17,
+      "url": "https://career.ri.se/en-GB/jobs",
+      "title": "RISE — Open job positions",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 18,
+      "url": "https://career.ivl.se/en-GB/jobs",
+      "title": "IVL — Job openings",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 19,
+      "url": "https://www.foi.se/jobba-hos-oss.html",
+      "title": "FOI — Jobba hos oss",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 20,
+      "url": "https://www.regionstockholm.se/jobb/lediga-jobb/stockholms-lans-sjukvardsomrade/forskare-sokes-till-projekt-som-ska-utveckla-varden-for-aldre",
+      "title": "Region Stockholm — Researcher vacancy",
+      "accessed": "2026-09-27"
+    },
+    {
+      "id": 21,
+      "url": "https://www.ri.se/en/about-rise/work-with-us/open-job-positions/researcher-electric-power-systems-1",
+      "title": "RISE — Researcher Electric Power Systems",
+      "accessed": "2026-09-27"
+    }
+  ]
+}
