@@ -1,53 +1,5 @@
 [
   {
-    "id": "KTH_962477",
-    "kind": "phd",
-    "title": "Doctoral student in Neuronics",
-    "short_title": "neuronics",
-    "organization": "KTH Royal Institute of Technology",
-    "city": "Stockholm",
-    "location_detail": "KTH",
-    "found_date": "2026-08-28",
-    "new_date": "2026-08-28",
-    "published": null,
-    "deadline": "2026-10-01",
-    "employment": "Full-time doctoral employment, up to 4 years",
-    "fit_score": 66,
-    "fit_label": "Plausible stretch match",
-    "description": "Doctoral research in Neuronics at KTH, an interdisciplinary neuroscience- and technology-adjacent research area.",
-    "match_reasons": [
-      "Interdisciplinary biomedical, molecular-biology and computational research background",
-      "Documented Python/R, imaging and data-analysis experience",
-      "Research output and collaborative experience support doctoral research readiness"
-    ],
-    "gaps": [
-      "The specific Neuronics methods and discipline requirements are not documented in the CV",
-      "No stated electronic engineering or neural-device specialization"
-    ],
-    "source_url": "https://www.kth.se/lediga-jobb/962477?l=en",
-    "apply_url": "https://kth.varbi.com/en/apply/positionquick/962477/?where=4",
-    "contact": "See official KTH advert",
-    "headline": "Interdisciplinary Biomedical Researcher | Imaging, Data Analysis & Molecular Biology",
-    "statement": "Interdisciplinary biomedical researcher combining molecular-biology and imaging experience with Python/R-based data analysis and reproducible computational workflows. I am motivated to develop rigorous research skills in technology-adjacent neuroscience, while presenting my current engineering-method gaps transparently.",
-    "section_order": [
-      "Personal Statement",
-      "Education",
-      "Bioinformatics & Computational Biology Projects",
-      "Computational Biology & Bioinformatics Skills",
-      "Research Experience",
-      "Wet Lab & Experimental Expertise",
-      "Peer-Reviewed Publications",
-      "Conference Presentations",
-      "Professional & Personal Skills",
-      "Teaching & Mentorship",
-      "Awards & Honors",
-      "References"
-    ],
-    "cv_yml": "data/tailored/KTH_962477_neuronics.yml",
-    "cv_pdf": "data/tailored/KTH_962477_neuronics.pdf",
-    "download_name": "KTH_962477_neuronics.pdf"
-  },
-  {
     "id": "KI_969035",
     "kind": "phd",
     "title": "Doctoral (PhD) student position in T-cell biology in rheumatic diseases",
@@ -196,6 +148,56 @@
     "cv_yml": "data/tailored/UU_968823_polymer_solid_state_batteries.yml",
     "cv_pdf": "data/tailored/UU_968823_polymer_solid_state_batteries.pdf",
     "download_name": "UU_968823_polymer_solid_state_batteries.pdf"
+  },
+  {
+    "id": "KI_971139",
+    "kind": "phd",
+    "title": "Doctoral (PhD) student position in proteomics and insulin resistance in metabolic disease",
+    "short_title": "proteomics_insulin_resistance_metabolic_disease",
+    "organization": "Karolinska Institutet",
+    "city": "Solna",
+    "location_detail": "Department of Microbiology, Tumor and Cell Biology",
+    "found_date": "2026-10-02",
+    "new_date": "2026-10-02",
+    "published": "2026-09-18",
+    "deadline": "2026-10-09",
+    "employment": "Full-time doctoral studentship, maximum 4 years",
+    "fit_score": 90,
+    "fit_label": "Excellent match with proteomics/metabolism gaps",
+    "description": "Use mass-spectrometry-based proteomics, metabolomics, quantitative analysis, bioinformatics and multi-omics integration to investigate adipocyte insulin resistance and its reversal after bariatric surgery.",
+    "match_reasons": [
+      "The advertised molecular-biology, mammalian-cell-culture and quantitative-biological-data-analysis foundation is supported by documented cell culture, molecular methods and R/Python-based reproducible analysis.",
+      "Documented bioinformatics study, Linux, sequencing-data analysis and reproducible workflows provide a relevant bridge to large biological datasets and multi-omics integration.",
+      "Established publications and interdisciplinary research experience support experiment planning, scientific communication, manuscript contribution and collaboration.",
+      "The biomedical, molecular-biology and biotechnology background aligns with the position's stated subject areas."
+    ],
+    "gaps": [
+      "Mass-spectrometry-based proteomics, metabolomics and their sample preparation are not explicitly documented in the master CV.",
+      "Metabolism, adipocyte biology, insulin signalling, obesity, type 2 diabetes, bariatric-surgery samples and plasma-proteomics experience are not explicitly documented.",
+      "3D adipocyte spheroids, CRISPR/Cas9, gene silencing and functional metabolic assays are not explicitly documented; the application should frame these as methods to learn."
+    ],
+    "source_url": "https://kidoktorand.varbi.com/en/what:job/jobID:971139/type:job/where:4/apply:1",
+    "apply_url": "https://kidoktorand.varbi.com/en/what:login/jobID:971139/type:job/where:4/apply:1/",
+    "contact": "Amir Ata Saei — amir.saei@ki.se",
+    "headline": "Biomedical Researcher | Molecular Biology, Cell Methods & Bioinformatics",
+    "statement": "Biomedical researcher with an established biology research and publication background, combining cell culture and molecular-biology methods with growing bioinformatics skills. I use R, Python, Linux and reproducible workflows to support scientific data analysis, and I work comfortably between experimental and computational colleagues. I would bring this foundation to proteomics and metabolic-disease research while developing specialised expertise in mass-spectrometry-based omics, metabolomics and adipocyte biology.",
+    "section_order": [
+      "Personal Statement",
+      "Research Experience",
+      "Wet Lab & Experimental Expertise",
+      "Education",
+      "Computational Biology & Bioinformatics Skills",
+      "Bioinformatics & Computational Biology Projects",
+      "Peer-Reviewed Publications",
+      "Conference Presentations",
+      "Professional & Personal Skills",
+      "Teaching & Mentorship",
+      "Awards & Honors",
+      "References"
+    ],
+    "cv_yml": "data/tailored/KI_971139_proteomics_insulin_resistance_metabolic_disease.yml",
+    "cv_pdf": "data/tailored/KI_971139_proteomics_insulin_resistance_metabolic_disease.pdf",
+    "download_name": "KI_971139_proteomics_insulin_resistance_metabolic_disease.pdf"
   },
   {
     "id": "KTH_970376",
