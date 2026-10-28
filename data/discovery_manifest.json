@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:00:45.753330+00:00",
+  "generated_at": "2026-10-28T12:15:09.481705+00:00",
   "sources": [
     {
       "name": "Karolinska Institutet vacancies",
@@ -16,112 +16,48 @@
       ],
       "status": "ok",
       "candidate_urls": [
-        "https://ki.varbi.com/en/what:job/jobID:975862/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:972424/type:job/where:4/apply:1",
-        "https://kidoktorand.varbi.com/en/what:job/jobID:976204/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:973165/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:975321/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:972676/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:975638/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:975331/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:975386/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:976003/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:976284/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:976546/type:job/where:4/apply:1",
-        "https://kidoktorand.varbi.com/en/what:job/jobID:976785/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:961052/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:976636/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:977194/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:974703/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
-        "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:976636/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:977194/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:977131/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:977089/type:job/where:4/apply:1",
         "https://ki.varbi.com/en/what:job/jobID:977377/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:977338/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:974518/type:job/where:4/apply:1",
         "https://kidoktorand.varbi.com/en/what:job/jobID:974417/type:job/where:4/apply:1",
-        "https://kidoktorand.varbi.com/en/what:job/jobID:974313/type:job/where:4/apply:1"
+        "https://kidoktorand.varbi.com/en/what:job/jobID:977931/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:977156/type:job/where:4/apply:1",
+        "https://kidoktorand.varbi.com/en/what:job/jobID:974353/type:job/where:4/apply:1",
+        "https://kidoktorand.varbi.com/en/what:job/jobID:974313/type:job/where:4/apply:1",
+        "https://kidoktorand.varbi.com/en/what:job/jobID:975361/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:978313/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:967269/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:972943/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:970674/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:976809/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:973309/type:job/where:4/apply:1",
+        "https://ki.varbi.com/en/what:job/jobID:979152/type:job/where:4/apply:1"
       ],
       "candidates": [
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975862/type:job/where:4/apply:1",
-          "title": "Research Specialist in Nutritional Neuroscience"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:972424/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in Geriatric Pharmacoepidemiology"
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:976204/type:job/where:4/apply:1",
-          "title": "Doctoral (PhD) student position in oral-systemic health research"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:973165/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in in single-cell and computational biology (scholarship)"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975321/type:job/where:4/apply:1",
-          "title": "Postdoctoral Researcher in single-cell and spatial omics of CNS development and disease"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:972676/type:job/where:4/apply:1",
-          "title": "Postdoctoral Studies in Human Translational Fibrosis and Metabolic Disease (Scholarships)"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975638/type:job/where:4/apply:1",
-          "title": "Kvalificerat ledningsstöd till Karolinska Institutets tre vicerektorer"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975331/type:job/where:4/apply:1",
-          "title": "Forskningsspecialist inom reumatologi och precisionsmedicin"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975386/type:job/where:4/apply:1",
-          "title": "Antagningshandläggare till Karolinska Institutet"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976003/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in immunology and spatial transcriptomics"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976284/type:job/where:4/apply:1",
-          "title": "Vikarierande projektsamordnare för utbildningen Youth Aware of Mental Health (YAM)"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976546/type:job/where:4/apply:1",
-          "title": "Research Assistant for Pharmacoepidemiological Applications"
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:976785/type:job/where:4/apply:1",
-          "title": "Doctoral (PhD) student position in translational neuroscience: autophagy in Alzheimer's disease"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:961052/type:job/where:4/apply:1",
-          "title": "Principal Researcher in the area of biosensing in dermatology"
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974703/type:job/where:4/apply:1",
+          "title": "PhD position in vascular cognitive disorders"
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:976636/type:job/where:4/apply:1",
           "title": "Research assistant in liquid biopsy development"
         },
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
-          "title": "Research Assistant position – prediction modelling in cognitive disorders"
-        },
-        {
           "url": "https://ki.varbi.com/en/what:job/jobID:977194/type:job/where:4/apply:1",
           "title": "Karolinska Institutet söker senior upphandlare"
         },
         {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974703/type:job/where:4/apply:1",
-          "title": "PhD position in vascular cognitive disorders"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
-          "title": "Clinical assistant – Development and optimization of cell-based therapies"
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
-          "title": "Erfaren verksamhetscontroller till forskargrupp inom cancerdiagnostik och precisionsonkologi"
+          "url": "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
+          "title": "Research Assistant position – prediction modelling in cognitive disorders"
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:977131/type:job/where:4/apply:1",
@@ -136,189 +72,253 @@
           "title": "Postdoktor i lupus och autoimmunitet"
         },
         {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
+          "title": "Clinical assistant – Development and optimization of cell-based therapies"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
+          "title": "Erfaren verksamhetscontroller till forskargrupp inom cancerdiagnostik och precisionsonkologi"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977338/type:job/where:4/apply:1",
+          "title": "Research engineer with technical tesponsibility for AI-Based ultrasound diagnostics"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:974518/type:job/where:4/apply:1",
+          "title": "Adjunkt i Molekylär Genetik och Genomik (deltid 10 %)"
+        },
+        {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974417/type:job/where:4/apply:1",
           "title": "Doctoral student position in immunometabolism and functional HIV cure"
         },
         {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:977931/type:job/where:4/apply:1",
+          "title": "Doktorandplats inom akutsjukvård"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1",
+          "title": "Research Specialist in Immuno Oncology"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977156/type:job/where:4/apply:1",
+          "title": "Biomedical analyst to The Department of Laboratory Medicine"
+        },
+        {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974353/type:job/where:4/apply:1",
+          "title": "Doctoral student in virus-host interactions and immunometabolism"
+        },
+        {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974313/type:job/where:4/apply:1",
           "title": "Doctoral student position in immunometabolism for alphavirus therapeutics"
+        },
+        {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:975361/type:job/where:4/apply:1",
+          "title": "Doctoral (PhD) student position in Public health with a focus on de-implementation of low-value care"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:978313/type:job/where:4/apply:1",
+          "title": "Assistant (50%)"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:967269/type:job/where:4/apply:1",
+          "title": "Research assistant to the Department of Global Public Health"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:972943/type:job/where:4/apply:1",
+          "title": "Projektledare för utveckling och ledning av ny labbverksamhet"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:970674/type:job/where:4/apply:1",
+          "title": "Research Assistant in Neurodivergent Women’s Reproductive Health"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:976809/type:job/where:4/apply:1",
+          "title": "Bibliotekarie till Karolinska Institutet"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:973309/type:job/where:4/apply:1",
+          "title": "Postdoktor i biostatistik"
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:979152/type:job/where:4/apply:1",
+          "title": "Research Specialist in chronic pain research"
         }
       ],
       "triage": [
         {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975862/type:job/where:4/apply:1",
-          "title": "Research Specialist in Nutritional Neuroscience",
-          "stable_id": "KI_975862",
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974703/type:job/where:4/apply:1",
+          "title": "PhD position in vascular cognitive disorders",
+          "stable_id": "KI_974703",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:972424/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in Geriatric Pharmacoepidemiology",
-          "stable_id": "KI_972424",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:976204/type:job/where:4/apply:1",
-          "title": "Doctoral (PhD) student position in oral-systemic health research",
-          "stable_id": "KI_976204",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:973165/type:job/where:4/apply:1",
-          "title": "Postdoctoral studies in in single-cell and computational biology (scholarship)",
-          "stable_id": "KI_973165",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975321/type:job/where:4/apply:1",
-          "title": "Postdoctoral Researcher in single-cell and spatial omics of CNS development and disease",
-          "stable_id": "KI_975321",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:972676/type:job/where:4/apply:1",
-          "title": "Postdoctoral Studies in Human Translational Fibrosis and Metabolic Disease (Scholarships)",
-          "stable_id": "KI_972676",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975638/type:job/where:4/apply:1",
-          "title": "Kvalificerat ledningsstöd till Karolinska Institutets tre vicerektorer",
-          "stable_id": "KI_975638",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975331/type:job/where:4/apply:1",
-          "title": "Forskningsspecialist inom reumatologi och precisionsmedicin",
-          "stable_id": "KI_975331",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:975386/type:job/where:4/apply:1",
-          "title": "Antagningshandläggare till Karolinska Institutet",
-          "stable_id": "KI_975386",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976003/type:job/where:4/apply:1",
-          "title": "Postdoctoral researcher in immunology and spatial transcriptomics",
-          "stable_id": "KI_976003",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976284/type:job/where:4/apply:1",
-          "title": "Vikarierande projektsamordnare för utbildningen Youth Aware of Mental Health (YAM)",
-          "stable_id": "KI_976284",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976546/type:job/where:4/apply:1",
-          "title": "Research Assistant for Pharmacoepidemiological Applications",
-          "stable_id": "KI_976546",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:976785/type:job/where:4/apply:1",
-          "title": "Doctoral (PhD) student position in translational neuroscience: autophagy in Alzheimer's disease",
-          "stable_id": "KI_976785",
-          "status": "not_selected",
-          "reason": "Official vacancy reviewed but not accepted: documented hands-on rodent laboratory experience is a stated requirement and is not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:961052/type:job/where:4/apply:1",
-          "title": "Principal Researcher in the area of biosensing in dermatology",
-          "stable_id": "KI_961052",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:976636/type:job/where:4/apply:1",
           "title": "Research assistant in liquid biopsy development",
           "stable_id": "KI_976636",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
-          "title": "Research Assistant position – prediction modelling in cognitive disorders",
-          "stable_id": "KI_969347",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:977194/type:job/where:4/apply:1",
           "title": "Karolinska Institutet söker senior upphandlare",
           "stable_id": "KI_977194",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
-          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974703/type:job/where:4/apply:1",
-          "title": "PhD position in vascular cognitive disorders",
-          "stable_id": "KI_974703",
+          "url": "https://ki.varbi.com/en/what:job/jobID:969347/type:job/where:4/apply:1",
+          "title": "Research Assistant position – prediction modelling in cognitive disorders",
+          "stable_id": "KI_969347",
           "status": "not_selected",
-          "reason": "Official vacancy reviewed but not accepted: it requires a Master's background in statistics, data science, epidemiology, neuroscience or a related field plus longitudinal human-data analysis, which are not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
-          "title": "Clinical assistant – Development and optimization of cell-based therapies",
-          "stable_id": "KI_977123",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
-          "title": "Erfaren verksamhetscontroller till forskargrupp inom cancerdiagnostik och precisionsonkologi",
-          "stable_id": "KI_976416",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:977131/type:job/where:4/apply:1",
           "title": "Postdoctoral studies in microglial contributions to autism spectrum disorders (scholarship)",
           "stable_id": "KI_977131",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:977089/type:job/where:4/apply:1",
           "title": "Projektsamordnare",
           "stable_id": "KI_977089",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://ki.varbi.com/en/what:job/jobID:977377/type:job/where:4/apply:1",
           "title": "Postdoktor i lupus och autoimmunitet",
           "stable_id": "KI_977377",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977123/type:job/where:4/apply:1",
+          "title": "Clinical assistant – Development and optimization of cell-based therapies",
+          "stable_id": "KI_977123",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:976416/type:job/where:4/apply:1",
+          "title": "Erfaren verksamhetscontroller till forskargrupp inom cancerdiagnostik och precisionsonkologi",
+          "stable_id": "KI_976416",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977338/type:job/where:4/apply:1",
+          "title": "Research engineer with technical tesponsibility for AI-Based ultrasound diagnostics",
+          "stable_id": "KI_977338",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:974518/type:job/where:4/apply:1",
+          "title": "Adjunkt i Molekylär Genetik och Genomik (deltid 10 %)",
+          "stable_id": "KI_974518",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974417/type:job/where:4/apply:1",
           "title": "Doctoral student position in immunometabolism and functional HIV cure",
           "stable_id": "KI_974417",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:977931/type:job/where:4/apply:1",
+          "title": "Doktorandplats inom akutsjukvård",
+          "stable_id": "KI_977931",
+          "status": "not_selected",
+          "reason": "Official vacancy reviewed but not accepted: it requires clinical training and Swedish clinical-care experience not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1",
+          "title": "Research Specialist in Immuno Oncology",
+          "stable_id": "KI_977871",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:977156/type:job/where:4/apply:1",
+          "title": "Biomedical analyst to The Department of Laboratory Medicine",
+          "stable_id": "KI_977156",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974353/type:job/where:4/apply:1",
+          "title": "Doctoral student in virus-host interactions and immunometabolism",
+          "stable_id": "KI_974353",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://kidoktorand.varbi.com/en/what:job/jobID:974313/type:job/where:4/apply:1",
           "title": "Doctoral student position in immunometabolism for alphavirus therapeutics",
           "stable_id": "KI_974313",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://kidoktorand.varbi.com/en/what:job/jobID:975361/type:job/where:4/apply:1",
+          "title": "Doctoral (PhD) student position in Public health with a focus on de-implementation of low-value care",
+          "stable_id": "KI_975361",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:978313/type:job/where:4/apply:1",
+          "title": "Assistant (50%)",
+          "stable_id": "KI_978313",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:967269/type:job/where:4/apply:1",
+          "title": "Research assistant to the Department of Global Public Health",
+          "stable_id": "KI_967269",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:972943/type:job/where:4/apply:1",
+          "title": "Projektledare för utveckling och ledning av ny labbverksamhet",
+          "stable_id": "KI_972943",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:970674/type:job/where:4/apply:1",
+          "title": "Research Assistant in Neurodivergent Women’s Reproductive Health",
+          "stable_id": "KI_970674",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:976809/type:job/where:4/apply:1",
+          "title": "Bibliotekarie till Karolinska Institutet",
+          "stable_id": "KI_976809",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:973309/type:job/where:4/apply:1",
+          "title": "Postdoktor i biostatistik",
+          "stable_id": "KI_973309",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://ki.varbi.com/en/what:job/jobID:979152/type:job/where:4/apply:1",
+          "title": "Research Specialist in chronic pain research",
+          "stable_id": "KI_979152",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         }
       ]
     },
@@ -336,36 +336,29 @@
       ],
       "status": "ok",
       "candidate_urls": [
-        "https://www.kth.se/lediga-jobb/962019?l=en",
-        "https://www.kth.se/lediga-jobb/981265?l=en",
         "https://www.kth.se/lediga-jobb/981310?l=en",
         "https://www.kth.se/lediga-jobb/981782?l=en",
         "https://www.kth.se/lediga-jobb/973983?l=en",
         "https://www.kth.se/lediga-jobb/970092?l=en",
         "https://www.kth.se/lediga-jobb/967857?l=en",
-        "https://www.kth.se/lediga-jobb/939588?l=en",
         "https://www.kth.se/lediga-jobb/970256?l=en",
         "https://www.kth.se/lediga-jobb/972456?l=en",
         "https://www.kth.se/lediga-jobb/983033?l=en",
+        "https://www.kth.se/lediga-jobb/982979?l=en",
         "https://www.kth.se/lediga-jobb/974287?l=en",
         "https://www.kth.se/lediga-jobb/970594?l=en",
+        "https://www.kth.se/lediga-jobb/981265?l=en",
         "https://www.kth.se/lediga-jobb/978110?l=en",
         "https://www.kth.se/lediga-jobb/925980?l=en",
         "https://www.kth.se/lediga-jobb/982960?l=en",
         "https://www.kth.se/lediga-jobb/977770?l=en",
         "https://www.kth.se/lediga-jobb/980986?l=en",
+        "https://www.kth.se/lediga-jobb/939588?l=en",
+        "https://www.kth.se/lediga-jobb/966417?l=en",
         "https://www.kth.se/lediga-jobb/972326?l=en",
         "https://www.kth.se/lediga-jobb/rss/"
       ],
       "candidates": [
-        {
-          "url": "https://www.kth.se/lediga-jobb/962019?l=en",
-          "title": "Doctoral student in experimental fluid mechanics and complex films"
-        },
-        {
-          "url": "https://www.kth.se/lediga-jobb/981265?l=en",
-          "title": "Research engineer in experimental aerodynamics for turbomachinery"
-        },
         {
           "url": "https://www.kth.se/lediga-jobb/981310?l=en",
           "title": "Research Engineer in development of brain-inspired artificial intelligence"
@@ -387,10 +380,6 @@
           "title": "Postdoc in AI and digital modelling of electric power systems"
         },
         {
-          "url": "https://www.kth.se/lediga-jobb/939588?l=en",
-          "title": "Doctoral students in Networked Systems Security"
-        },
-        {
           "url": "https://www.kth.se/lediga-jobb/970256?l=en",
           "title": "Doctoral student in Game-Theoretic Methods for Multi-Agent Autonomous Systems"
         },
@@ -403,12 +392,20 @@
           "title": "Researcher in data driven health, with specialisation in knowledge graphs"
         },
         {
+          "url": "https://www.kth.se/lediga-jobb/982979?l=en",
+          "title": ": Researcher in computational magnetism and spintronics"
+        },
+        {
           "url": "https://www.kth.se/lediga-jobb/974287?l=en",
           "title": "Postdoc in sustainable generative artificial intelligence for media"
         },
         {
           "url": "https://www.kth.se/lediga-jobb/970594?l=en",
           "title": "Postdoc in Computational Methods for Games and Multi-Agent Decision Making"
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/981265?l=en",
+          "title": "Research engineer in experimental aerodynamics for turbomachinery"
         },
         {
           "url": "https://www.kth.se/lediga-jobb/978110?l=en",
@@ -431,6 +428,14 @@
           "title": "Postdoc in ICME for electron beam powder bed fusion"
         },
         {
+          "url": "https://www.kth.se/lediga-jobb/939588?l=en",
+          "title": "Doctoral students in Networked Systems Security"
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/966417?l=en",
+          "title": "Associate Prof. in Industrial informatics for production engineering"
+        },
+        {
           "url": "https://www.kth.se/lediga-jobb/972326?l=en",
           "title": "Postdoc in Large Language Model inferencing"
         },
@@ -441,144 +446,151 @@
       ],
       "triage": [
         {
-          "url": "https://www.kth.se/lediga-jobb/962019?l=en",
-          "title": "Doctoral student in experimental fluid mechanics and complex films",
-          "stable_id": "KTH_962019",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://www.kth.se/lediga-jobb/981265?l=en",
-          "title": "Research engineer in experimental aerodynamics for turbomachinery",
-          "stable_id": "KTH_981265",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
           "url": "https://www.kth.se/lediga-jobb/981310?l=en",
           "title": "Research Engineer in development of brain-inspired artificial intelligence",
           "stable_id": "KTH_981310",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/981782?l=en",
           "title": "Research Student Assistant in Traffic Video Anomaly Understanding",
           "stable_id": "KTH_981782",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/973983?l=en",
           "title": "Doctoral student in robotic manipulation of deformable objects",
           "stable_id": "KTH_973983",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/970092?l=en",
           "title": "Doctoral student in non-Newtonian fluid mechanics and AI",
           "stable_id": "KTH_970092",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/967857?l=en",
           "title": "Postdoc in AI and digital modelling of electric power systems",
           "stable_id": "KTH_967857",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://www.kth.se/lediga-jobb/939588?l=en",
-          "title": "Doctoral students in Networked Systems Security",
-          "stable_id": "KTH_939588",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/970256?l=en",
           "title": "Doctoral student in Game-Theoretic Methods for Multi-Agent Autonomous Systems",
           "stable_id": "KTH_970256",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/972456?l=en",
           "title": "Postdoc in Robot Learning for Manipulation",
           "stable_id": "KTH_972456",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/983033?l=en",
           "title": "Researcher in data driven health, with specialisation in knowledge graphs",
           "stable_id": "KTH_983033",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/982979?l=en",
+          "title": ": Researcher in computational magnetism and spintronics",
+          "stable_id": "KTH_982979",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/974287?l=en",
           "title": "Postdoc in sustainable generative artificial intelligence for media",
           "stable_id": "KTH_974287",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/970594?l=en",
           "title": "Postdoc in Computational Methods for Games and Multi-Agent Decision Making",
           "stable_id": "KTH_970594",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/981265?l=en",
+          "title": "Research engineer in experimental aerodynamics for turbomachinery",
+          "stable_id": "KTH_981265",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/978110?l=en",
           "title": "Postdoctor in purification of graphite for lithium-ion batteries",
           "stable_id": "KTH_978110",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/925980?l=en",
           "title": "Associate Professor in Environmental impact analysis",
           "stable_id": "KTH_925980",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/982960?l=en",
           "title": "Research Engineer in experimental physics.",
           "stable_id": "KTH_982960",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/977770?l=en",
           "title": "Postdoc in multi-omics machine learning and computational cancer biology",
           "stable_id": "KTH_977770",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/980986?l=en",
           "title": "Postdoc in ICME for electron beam powder bed fusion",
           "stable_id": "KTH_980986",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/939588?l=en",
+          "title": "Doctoral students in Networked Systems Security",
+          "stable_id": "KTH_939588",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.kth.se/lediga-jobb/966417?l=en",
+          "title": "Associate Prof. in Industrial informatics for production engineering",
+          "stable_id": "KTH_966417",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/972326?l=en",
           "title": "Postdoc in Large Language Model inferencing",
           "stable_id": "KTH_972326",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.kth.se/lediga-jobb/rss/",
           "title": "Vacancies as RSS",
           "stable_id": "SLU_rss",
           "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
+          "reason": "Official SLU listing opened during dynamic-index reconciliation; its published deadline has passed."
         }
       ]
     },
@@ -604,8 +616,8 @@
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972009",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972169",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972566",
-        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972957",
-        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=973784"
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=973784",
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=974072"
       ],
       "candidates": [
         {
@@ -641,12 +653,12 @@
           "title": "PhD student in Limnology: Modelling phytoplankton succession in lakes"
         },
         {
-          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972957",
-          "title": "PhD student in Physical Chemistry with focus on perovskite solar cells"
-        },
-        {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=973784",
           "title": "Two PhD students in Chemistry with specialisation in Organic Chemistry"
+        },
+        {
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=974072",
+          "title": "PhD student position in Bioinformatics/Evolutionary Microbiology"
         }
       ],
       "triage": [
@@ -655,7 +667,7 @@
           "title": "PhD student focusing on Scalable Quantum Program Verification",
           "stable_id": "UU_961891",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249",
@@ -669,56 +681,56 @@
           "title": "PhD student in electrical engineering with focus on power system adequacy",
           "stable_id": "UU_967690",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=971356",
           "title": "PhD student in experimental nuclear physics with a focus on neutron-induced reactions",
           "stable_id": "UU_971356",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=971937",
           "title": "PhD student in laser spectroscopy",
           "stable_id": "UU_971937",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972009",
           "title": "PhD student in hydrology - wildfires effect on Arctic water cycle",
           "stable_id": "UU_972009",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972169",
           "title": "PhD in psychology",
           "stable_id": "UU_972169",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972566",
           "title": "PhD student in Limnology: Modelling phytoplankton succession in lakes",
           "stable_id": "UU_972566",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=972957",
-          "title": "PhD student in Physical Chemistry with focus on perovskite solar cells",
-          "stable_id": "UU_972957",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=973784",
           "title": "Two PhD students in Chemistry with specialisation in Organic Chemistry",
           "stable_id": "UU_973784",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=974072",
+          "title": "PhD student position in Bioinformatics/Evolutionary Microbiology",
+          "stable_id": "UU_974072",
+          "status": "active_existing",
+          "reason": "Live official vacancy re-verified and retained in the active report."
         }
       ]
     },
@@ -740,12 +752,12 @@
         "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=934746",
         "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=937626",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=937704",
-        "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=942034",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964799",
         "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=966977",
         "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249",
-        "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=967356"
+        "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=967356",
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967690"
       ],
       "candidates": [
         {
@@ -763,10 +775,6 @@
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=937704",
           "title": "Associate Professor in Biochemistry"
-        },
-        {
-          "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=942034",
-          "title": "Biträdande universitetslektor i Folkhälsovetenskap"
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
@@ -787,6 +795,10 @@
         {
           "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=967356",
           "title": "Administrativ chef med ekonomiansvar"
+        },
+        {
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967690",
+          "title": "PhD student in electrical engineering with focus on power system adequacy"
         }
       ],
       "triage": [
@@ -795,56 +807,49 @@
           "title": "Professor in Medical Bacteriology",
           "stable_id": "UU_909639",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=934746",
           "title": "Timanställning som Forskningsassistent",
           "stable_id": "UU_934746",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=937626",
           "title": "Universitetslektor i onkologi förenad med befattning som specialistläkare vid Akademiska sjukhuset",
           "stable_id": "UU_937626",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=937704",
           "title": "Associate Professor in Biochemistry",
           "stable_id": "UU_937704",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
-        },
-        {
-          "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=942034",
-          "title": "Biträdande universitetslektor i Folkhälsovetenskap",
-          "stable_id": "UU_942034",
-          "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891",
           "title": "PhD student focusing on Scalable Quantum Program Verification",
           "stable_id": "UU_961891",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=964799",
           "title": "Postdoctoral Researcher in Holocaust and Genocide Studies with a Specialization in Memory Studies and Transitional Justice in Ethiopia",
           "stable_id": "UU_964799",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=966977",
           "title": "Universitetslektor i ryska",
           "stable_id": "UU_966977",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967249",
@@ -858,7 +863,14 @@
           "title": "Administrativ chef med ekonomiansvar",
           "stable_id": "UU_967356",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
+          "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=967690",
+          "title": "PhD student in electrical engineering with focus on power system adequacy",
+          "stable_id": "UU_967690",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         }
       ]
     },
@@ -910,35 +922,35 @@
           "title": "PhD student in Analytical Chemistry within Nano-Enabled Medical Devices for Precision Healthcare. Deadline 9 August",
           "stable_id": "SU_947522",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://su.varbi.com/what:job/jobID:946669/where:4/",
           "title": "PhD student in Analytical Chemistry within Advanced Nanomaterials for Healthcare Applications. Deadline 9 August",
           "stable_id": "SU_946669",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://su.varbi.com/what:job/jobID:946958/where:4/",
           "title": "PhD student in Materials Chemistry within Chemical Recycling of Plastics. Deadline 9 August",
           "stable_id": "SU_946958",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://su.varbi.com/what:job/jobID:947515/where:4/",
           "title": "PhD student in Materials Chemistry with a specialization in cost effective separation of carbon dioxide. Deadline 9 August",
           "stable_id": "SU_947515",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://su.varbi.com/what:job/jobID:946630/where:4/",
           "title": "PhD student in Organic Chemistry. Deadline 9 August",
           "stable_id": "SU_946630",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         }
       ]
     },
@@ -957,7 +969,33 @@
       "status": "ok",
       "candidate_urls": [],
       "candidates": [],
-      "triage": []
+      "official_domain_backfill": "Official Stockholm University domain query identified two current bioinformatics vacancies; both official Varbi pages were opened directly.",
+      "reconciled_candidates": [
+        {
+          "url": "https://su.varbi.com/what:job/jobID:971439/",
+          "title": "PhD student in Bioinformatics — AI for Multimodal Biology and Microscopy"
+        },
+        {
+          "url": "https://su.varbi.com/what:job/jobID:970261/",
+          "title": "PhD student in Bioinformatics — AI-driven Multiscale Modelling of Membrane Protein Complexes"
+        }
+      ],
+      "triage": [
+        {
+          "url": "https://su.varbi.com/what:job/jobID:971439/",
+          "title": "PhD student in Bioinformatics — AI for Multimodal Biology and Microscopy",
+          "stable_id": "SU_971439",
+          "status": "not_selected",
+          "reason": "Official vacancy reviewed but not accepted: it requires solid machine-learning including deep-learning experience, which is not documented in the immutable master CV."
+        },
+        {
+          "url": "https://su.varbi.com/what:job/jobID:970261/",
+          "title": "PhD student in Bioinformatics — AI-driven Multiscale Modelling of Membrane Protein Complexes",
+          "stable_id": "SU_970261",
+          "status": "active_existing",
+          "reason": "Live official vacancy re-verified and retained in the active report."
+        }
+      ]
     },
     {
       "name": "SciLifeLab careers",
@@ -975,6 +1013,7 @@
       ],
       "status": "ok",
       "candidate_urls": [
+        "https://www.scilifelab.se/career/phd-position-in-molecular-biology-in-data-driven-epidemiology-and-biology-of-infection/",
         "https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/",
         "https://www.scilifelab.se/career/koordinator-brandsakerhet-labbsakerhet-och-lokaler/",
         "https://www.scilifelab.se/career/phd-student-in-medical-science/",
@@ -986,8 +1025,12 @@
       ],
       "candidates": [
         {
+          "url": "https://www.scilifelab.se/career/phd-position-in-molecular-biology-in-data-driven-epidemiology-and-biology-of-infection/",
+          "title": "PhD position in Molecular Biology in Data driven epidemiology and biology of infection Umeå university Application deadline: November 19, 2026 Read"
+        },
+        {
           "url": "https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/",
-          "title": "Postdoc in multi-omics machine learning and computational cancer biology Application deadline: November 15, 2026 Read"
+          "title": "Postdoc in multi-omics machine learning and computational cancer biology Umeå university Application deadline: November 15, 2026 Read"
         },
         {
           "url": "https://www.scilifelab.se/career/koordinator-brandsakerhet-labbsakerhet-och-lokaler/",
@@ -1020,60 +1063,67 @@
       ],
       "triage": [
         {
+          "url": "https://www.scilifelab.se/career/phd-position-in-molecular-biology-in-data-driven-epidemiology-and-biology-of-infection/",
+          "title": "PhD position in Molecular Biology in Data driven epidemiology and biology of infection Umeå university Application deadline: November 19, 2026 Read",
+          "stable_id": "SCILIFE_phd-position-in-molecular-biology-in-data-driven-epidemiology-and-biology-of-infection",
+          "status": "not_selected",
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
+        },
+        {
           "url": "https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/",
-          "title": "Postdoc in multi-omics machine learning and computational cancer biology Application deadline: November 15, 2026 Read",
+          "title": "Postdoc in multi-omics machine learning and computational cancer biology Umeå university Application deadline: November 15, 2026 Read",
           "stable_id": "SCILIFE_postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/koordinator-brandsakerhet-labbsakerhet-och-lokaler/",
           "title": "Koordinator brandsäkerhet, labbsäkerhet och lokaler KTH Application deadline: November 6, 2026 Read",
           "stable_id": "SCILIFE_koordinator-brandsakerhet-labbsakerhet-och-lokaler",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/phd-student-in-medical-science/",
           "title": "PhD student in Medical Science Linköping University Application deadline: November 5, 2026 Read",
           "stable_id": "SCILIFE_phd-student-in-medical-science",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/ekonom-4/",
           "title": "Ekonom Uppsala University Application deadline: October 27, 2026 Read",
           "stable_id": "SCILIFE_ekonom-4",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/postdoc-in-cancer-genomics/",
           "title": "Postdoc in Cancer Genomics Linköping University Application deadline: November 30, 2026 Read",
           "stable_id": "SCILIFE_postdoc-in-cancer-genomics",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/researcher-4/",
           "title": "Researcher University of Gothenburg Application deadline: October 28, 2026 Read",
           "stable_id": "SCILIFE_researcher-4",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance/",
           "title": "Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance Uppsala University Application deadline: November 9, 2026 Read",
           "stable_id": "SCILIFE_associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         },
         {
           "url": "https://www.scilifelab.se/career/molekylarbiolog-till-klinisk-patologi-och-genetik-uso/",
           "title": "Molekylärbiolog till Klinisk patologi och genetik, USÖ Region Örebro län Application deadline: October 29, 2026 Read",
           "stable_id": "SCILIFE_molekylarbiolog-till-klinisk-patologi-och-genetik-uso",
           "status": "not_selected",
-          "reason": "Official candidate triaged; it is outside target scope, does not clear the realistic-fit gate, is expired, or requires qualifications not documented in the immutable master CV."
+          "reason": "Official candidate triaged; it is expired, outside target scope, does not clear the realistic-fit gate, or requires qualifications not documented in the immutable master CV."
         }
       ]
     },
@@ -1092,83 +1142,55 @@
       ],
       "harvest_mode": "dynamic_index",
       "status": "dynamic",
-      "candidate_urls": [
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-tradgardsvetenskap-/",
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-biomassa-resurser-fran-hallbara-odlingssystem/",
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-bioekonomiska-system-i-jordbruket/",
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogsskotsel/",
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogspatologi/",
-        "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-landskapets-governance-och-forvaltning/"
-      ],
-      "candidates": [
+      "candidate_urls": [],
+      "candidates": [],
+      "reconciliation": "Dynamic official index reconciled on 2026-10-28 through the registry official-domain query; four relevant official Uppsala/Ultuna listings were opened directly and all had passed deadlines.",
+      "reconciled_candidates": [
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-tradgardsvetenskap-/",
-          "title": "PhD student in Horticultural Science"
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/phd-student-ddls-integrative-pangenomics-of-polyploids",
+          "title": "PhD Student: DDLS integrative pangenomics of polyploids"
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-biomassa-resurser-fran-hallbara-odlingssystem/",
-          "title": "PhD student in biomass resources from sustainable cropping systems"
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-de-novo-proteindesign",
+          "title": "PhD students Protein Design"
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-bioekonomiska-system-i-jordbruket/",
-          "title": "PhD student in agricultural bioeconomy systems"
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand2",
+          "title": "PhD student - Cyanobacteria and their Toxins in a Changing Climate"
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogsskotsel/",
-          "title": "PhD student in silviculture of planted birch"
-        },
-        {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogspatologi/",
-          "title": "PhD student in forest pathology: biotic risks to birch"
-        },
-        {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-landskapets-governance-och-forvaltning/",
-          "title": "PhD Student in Landscape Governance and Management"
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-mikrobiella-strategier-for-hallbar-pfas-sanering",
+          "title": "PhD student in microbial strategies for sustainable PFAS remediation"
         }
       ],
-      "reconciliation": "Dynamic official index reconciled on 2026-10-26 with the registry official-domain query and the official SLU PhD filter. All six official listing pages were opened directly; all are based in Alnarp and none cleared the Stockholm/Solna/Uppsala geographic gate.",
       "triage": [
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-tradgardsvetenskap-/",
-          "title": "PhD student in Horticultural Science",
-          "stable_id": "SLU_doktorand_inom_tradgardsvetenskap",
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/phd-student-ddls-integrative-pangenomics-of-polyploids",
+          "title": "PhD Student: DDLS integrative pangenomics of polyploids",
+          "stable_id": "SLU_phd_student_ddls_integrative_pangenomics_of_polyploids",
           "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
+          "reason": "Official SLU listing opened during dynamic-index reconciliation; its published deadline has passed."
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-biomassa-resurser-fran-hallbara-odlingssystem/",
-          "title": "PhD student in biomass resources from sustainable cropping systems",
-          "stable_id": "SLU_doktorand_inom_biomassa_resurser_fran_hallbara_odlingssystem",
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-de-novo-proteindesign",
+          "title": "PhD students Protein Design",
+          "stable_id": "SLU_doktorand_i_de_novo_proteindesign",
           "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
+          "reason": "Official SLU listing opened during dynamic-index reconciliation; its published deadline has passed."
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-inom-bioekonomiska-system-i-jordbruket/",
-          "title": "PhD student in agricultural bioeconomy systems",
-          "stable_id": "SLU_doktorand_inom_bioekonomiska_system_i_jordbruket",
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand2",
+          "title": "PhD student - Cyanobacteria and their Toxins in a Changing Climate",
+          "stable_id": "SLU_doktorand2",
           "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
+          "reason": "Official SLU listing opened during dynamic-index reconciliation; its published deadline has passed."
         },
         {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogsskotsel/",
-          "title": "PhD student in silviculture of planted birch",
-          "stable_id": "SLU_doktorand_i_skogsskotsel",
+          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-mikrobiella-strategier-for-hallbar-pfas-sanering",
+          "title": "PhD student in microbial strategies for sustainable PFAS remediation",
+          "stable_id": "SLU_doktorand_i_mikrobiella_strategier_for_hallbar_pfas_sanering",
           "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
-        },
-        {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-skogspatologi/",
-          "title": "PhD student in forest pathology: biotic risks to birch",
-          "stable_id": "SLU_doktorand_i_skogspatologi",
-          "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
-        },
-        {
-          "url": "https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/doktorand-i-landskapets-governance-och-forvaltning/",
-          "title": "PhD Student in Landscape Governance and Management",
-          "stable_id": "SLU_doktorand_i_landskapets_governance_och_forvaltning",
-          "status": "not_selected",
-          "reason": "Official SLU listing opened after dynamic-index reconciliation; it is based in Alnarp or otherwise does not clear the realistic-fit gate from the immutable master CV."
+          "reason": "Official SLU listing opened during dynamic-index reconciliation; its published deadline has passed."
         }
       ]
     }
@@ -1179,7 +1201,7 @@
     "sources_dynamic": 1,
     "sources_failed": 0,
     "sources_empty": 0,
-    "candidate_urls": 82
+    "candidate_urls": 83
   },
-  "refresh_date": "2026-10-26"
+  "refresh_date": "2026-10-28"
 }
